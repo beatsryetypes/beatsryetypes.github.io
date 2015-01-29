@@ -53,7 +53,7 @@ layout: null
  
  <itunes:image href="http://www.beatsryetypes.com/images/cover-2000.png" />
  
- <enclosure url="{{ post.link }}" length="{{ post.length }}" type="audio/x-m4a" />
+ <enclosure url="{{ post.link }}" length="{{ post.length }}" type="audio/mpeg" />
  
  <guid>{{ post.link }}</guid>
  

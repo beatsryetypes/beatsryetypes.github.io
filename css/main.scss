@@ -75,5 +75,15 @@ $brand-color: $green;
   background: $purple;
 }
 
+.copy {
+  margin: 20px;
+  text-align:center;
+  color: white;
+  font-size: 10px;
+}
 
 
+// posts
+h1, h2 {
+  font-weight: bold;
+}

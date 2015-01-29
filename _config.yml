@@ -4,9 +4,9 @@ subtitle: Beats, Rye &amp; Types with AQ and MRB. Music, Food, Programming.
 description: > # this means to ignore newlines until "baseurl:"
   Beats, Rye &amp; Types is a podcast where AQ and MRB, two old friends, discuss their three main obsessions: music, food, and programming.
 baseurl: "" # the subpath of your site, e.g. /blog/
-copyright: &#xA9; 2015 Aaron Quint &amp; Michael Bernstein
+copyright: "&#xA9; 2015 Aaron Quint &amp; Michael Bernstein"
 author: Aaron Quint &amp; Michael Bernstein
-keywords: 
+keywords: music,food,programming,computers,aq,mrb,brooklyn
 url: "http://www.beatsryetypes.com" # the base hostname & protocol for your site
 twitter_username: beatsryetypes
 github_username:  beatsryetypes
