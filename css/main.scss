@@ -27,7 +27,11 @@ $content-width:    800px;
 $on-palm:          600px;
 $on-laptop:        800px;
 
+$yellow: #fbd78a;
+$purple: #13051f;
+$green: #79b838;
 
+$brand-color: $green;
 
 // Using media queries with like this:
 // @include media-query($on-palm) {
@@ -50,3 +54,26 @@ $on-laptop:        800px;
         "layout",
         "syntax-highlighting"
 ;
+
+
+.description {
+  color: $yellow;
+  font-weight: bold;
+  font-size: 18px;
+  padding-top: 50px;
+  text-align: right;
+  p {
+    padding-top: 20px;
+  font-style: italic;
+  }
+  a:hover {
+    color: white;
+  }
+}
+
+.site-footer {
+  background: $purple;
+}
+
+
+
