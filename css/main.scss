@@ -87,3 +87,24 @@ $brand-color: $green;
 h1, h2 {
   font-weight: bold;
 }
+
+#mc_embed_signup {
+  margin-top: 10px;
+  font-weight: bold;
+  color: $green;
+  text-align: right;
+  label {
+    display: block;
+  }
+  input[type=email] {
+    padding: 4px;
+    width: 200px;
+  }
+  input[type=submit] {
+    font-weight: bold;
+    background: $green;
+    padding: 4px 10px;
+    border: none;
+    margin: 10px 0px;
+  }
+}
