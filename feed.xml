@@ -26,9 +26,9 @@ layout: null
 
 <itunes:owner>
 
-<itunes:name>Beats, Rye &amp; Types</itunes:name>
+<itunes:name>Aaron Quint</itunes:name>
 
-<itunes:email>aaron+beatsryetypes@quirkey.com</itunes:email>
+<itunes:email>aaron@quirkey.com</itunes:email>
 
 </itunes:owner>
 
@@ -38,8 +38,6 @@ layout: null
   <itunes:category text="Food" />
 </itunes:category>
 <itunes:category text="Technology" />
-
-<itunes:new-feed-url>http://www.beatsryetypes.com/feed.xml</itunes:new-feed-url>
 
  {% for post in site.posts limit:10 %}
  
