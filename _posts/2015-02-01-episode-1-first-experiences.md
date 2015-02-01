@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Episode 1: First Experiences"
-date:   2015-02-02 09:00
+date:   2015-02-01 09:00
 categories: episodes
 length: 29329408
 duration: "24:17"
