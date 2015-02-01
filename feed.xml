@@ -19,6 +19,7 @@ layout: null
 <itunes:keywords>{{site.keywords}}</itunes:keywords>
 
 <itunes:summary>{{site.description}}</itunes:summary>
+<itunes:explicit>yes</itunes:explicit>
 
 <description>{{site.description}}</description>
 
@@ -52,6 +53,7 @@ layout: null
  <itunes:summary>
    {{ post.summary | xml_escape}}
  </itunes:summary>
+ <itunes:explicit>yes</itunes:explicit>
  
  <itunes:image href="http://www.beatsryetypes.com/images/cover-2000.png" />
  
