@@ -50,7 +50,7 @@ layout: null
  <itunes:subtitle>{{site.title}}: {{ post.title }}</itunes:subtitle>
  
  <itunes:summary>
- {{ post.content | split: '<!-- more -->' | first | xml_escape}}
+   {{ post.summary | xml_escape}}
  </itunes:summary>
  
  <itunes:image href="http://www.beatsryetypes.com/images/cover-2000.png" />
