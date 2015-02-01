@@ -2,7 +2,7 @@
 layout: null
 ---
 <?xml version="1.0" encoding="UTF-8"?>
-<rss xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" version="2.0">
+<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" version="2.0">
 <channel>
   <title>{{ site.title }}</title>
 
@@ -11,6 +11,7 @@ layout: null
 <language>en</language>
 
 <copyright>{{site.copyright}}</copyright>
+<atom:link href="{{site.url}}/feed.xml" rel="self" type="application/rss+xml" />
 
 <itunes:subtitle>{{site.description}}</itunes:subtitle>
 

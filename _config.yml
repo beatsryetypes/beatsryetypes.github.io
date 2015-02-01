@@ -7,7 +7,7 @@ baseurl: "" # the subpath of your site, e.g. /blog/
 copyright: "&#xA9; 2015 Aaron Quint &amp; Michael Bernstein"
 author: Aaron Quint &amp; Michael Bernstein
 keywords: music,food,programming,computers,aq,mrb,brooklyn
-url: "http://www.beatsryetypes.com" # the base hostname & protocol for your site
+url: "http://beatsryetypes.com" # the base hostname & protocol for your site
 twitter_username: beatsryetypes
 github_username:  beatsryetypes
 
