@@ -3,7 +3,8 @@ layout: post
 title:  "Episode 1: First Experiences"
 date:   2015-02-02 09:00
 categories: episodes
-length: "24:17"
+length: 29329408
+duration: "24:17"
 link: http://quirkey.com/brt/brt-001-160.mp3
 ---
 First! We break the proverbial ice by talking about our first experiences with great food and early computers. We yap about VAX, Ti-83s, Geocities, King Salmon, and that East Village Canolli tradition. 
