@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Episode 2: The New Hotness" 
-date:   2015-02-01 09:00
+date:   2015-02-09 09:00
 categories: episodes
 length: 32927744
 duration: "27:23"
