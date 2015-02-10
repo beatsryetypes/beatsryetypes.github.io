@@ -32,7 +32,7 @@ layout: null
 
 </itunes:owner>
 
-<itunes:image href="http://www.beatsryetypes.com/images/cover-2000.png" />
+<itunes:image href="http://beatsryetypes.com/images/brt-cover-2048.png" />
 
 <itunes:category text="Arts">
   <itunes:category text="Food" />
@@ -54,7 +54,7 @@ layout: null
  </itunes:summary>
  <itunes:explicit>yes</itunes:explicit>
  
- <itunes:image href="http://www.beatsryetypes.com/images/cover-2000.png" />
+ <itunes:image href="http://beatsryetypes.com/images/brt-cover-2048.png" />
  
  <enclosure url="{{ post.link }}" length="{{ post.length }}" type="audio/mpeg" />
  
