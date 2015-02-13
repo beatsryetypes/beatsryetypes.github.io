@@ -15,7 +15,7 @@ We consulted with each other, our spiritual leaders, our therapists, our signifi
 ### Links, etc
 
 * <strong>Music</strong>: Hauschka “Radar,” Chosen by MRB: [Awesome music video on YouTube](https://www.youtube.com/watch?v=U97zXZmzw3o)
-* Defontes <http://www.defontesofbrooklyn.com/>
+* Defontes <http://www.defontesofbrooklyn.com/>. Also, an amazing photo with a cross-section of a Firehouse (eggplant and brocolli rabb pictured) <http://newyork.seriouseats.com/2010/05/a-sandwich-a-day-the-firehouse-at-defontes-gramercy.html>
 * Sophies Cuban <http://www.sophiescuban.com/> *WARNING: PAGE CONTAINS SALSA MUSIC*
 * No. 7 Sub <http://www.no7sub.com/index.php>
 * Deisings Hard Rolls <http://www.deisings.com/>
