@@ -1,0 +1,21 @@
+---
+layout: post
+title:  "Episode 3: Sandwiches are The Best" 
+date:   2015-02-16 09:00
+categories: episodes
+length: 29786112
+duration: "24:46"
+link: http://quirkey.com/brt/brt-003-160.mp3
+summary: >
+  We consulted with each other, our spiritual leaders, our therapists, our significant others, and a host of other clerics and determined one thing: Sandwiches are The BEST. We talked about our favorite sandwiches from NYC, our home made opuses, and generally what makes a sandwich great. You might not want to listen to this without a sandwich in hand.
+---
+We consulted with each other, our spiritual leaders, our therapists, our significant others, and a host of other clerics and determined one thing: Sandwiches are The BEST. We talked about our favorite sandwiches from NYC, our home made opuses, and generally what makes a sandwich great. You might not want to listen to this without a sandwich in hand.
+<!-- more -->
+
+### Links, etc
+
+* <strong>Music</strong>: Hauschka “Radar,” Chosen by MRB: [Awesome music video on YouTube](https://www.youtube.com/watch?v=U97zXZmzw3o)
+* Defontes <http://www.defontesofbrooklyn.com/>
+* Sophies Cuban <http://www.sophiescuban.com/> *WARNING: PAGE CONTAINS SALSA MUSIC*
+* No. 7 Sub <http://www.no7sub.com/index.php>
+* Deisings Hard Rolls <http://www.deisings.com/>
