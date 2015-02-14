@@ -20,4 +20,6 @@ We consulted with each other, our spiritual leaders, our therapists, our signifi
 * No. 7 Sub <http://www.no7sub.com/index.php>
 * Deisings Hard Rolls <http://www.deisings.com/>
 * Salumeria Biellese <http://www.salumeriabiellese.com/>
-* SUNdeVICH sandwiches http://sundevich.com/
+* SUNdeVICH sandwiches <http://sundevich.com/>
+* Kickshaw Cookery <http://kickshawcookery.com/>
+* A really good harissa recipe <http://www.saveur.com/article/Recipes/Harissa>
