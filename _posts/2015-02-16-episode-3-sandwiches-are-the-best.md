@@ -19,3 +19,5 @@ We consulted with each other, our spiritual leaders, our therapists, our signifi
 * Sophies Cuban <http://www.sophiescuban.com/> *WARNING: PAGE CONTAINS SALSA MUSIC*
 * No. 7 Sub <http://www.no7sub.com/index.php>
 * Deisings Hard Rolls <http://www.deisings.com/>
+* Salumeria Biellese <http://www.salumeriabiellese.com/>
+* SUNdeVICH sandwiches http://sundevich.com/
