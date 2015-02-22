@@ -13,3 +13,7 @@ summary: >
 ### Links, etc
 
 * <strong>Music</strong>: William Onyeabor “Fantastic Man”, Chosen by AQ 
+* Evan Miller's Wizard App - try it and buy it! http://www.wizardmac.com/
+* The awesome work of Bruce G.S. Hardie - http://brucehardie.com/
+* The Go language's `go` command - https://golang.org/cmd/go/
+* A very fancy Box Grater - http://www.jacobbromwell.com/world-famous-grater
