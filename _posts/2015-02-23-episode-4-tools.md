@@ -3,7 +3,7 @@ layout: post
 title:  "Episode 4: Tools"
 date:   2015-02-23 09:00
 categories: episodes
-length: 
+length: 31225856 
 duration: "25:58"
 link: http://quirkey.com/brt/brt-004-160.mp3
 summary: >
