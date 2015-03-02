@@ -19,4 +19,5 @@ What is perfection? How do you go about attaining it? Can you buy it on Amazon? 
 * Shoutouts from [@reiddraper](https://twitter.com/reiddraper) and [@bhoggard](https://twitter.com/bhoggard)
 * [Faviken Cookbook](http://www.amazon.com/F%C3%A4viken-Magnus-Nilsson/dp/0714864706)
 * Mind of a Chef Season 3 <http://www.pbs.org/food/shows/the-mind-of-a-chef/>
-
+* Sol Lewitt, American artist [Wikipedia](http://en.wikipedia.org/wiki/Sol_LeWitt)
+* Sarah Minnick and [Lovely's Fifty Fifty](https://lovelysfiftyfifty.wordpress.com/) [Instagram](https://instagram.com/sarahminnick_/)
