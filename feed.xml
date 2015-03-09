@@ -50,7 +50,7 @@ layout: null
  <itunes:subtitle>{{site.title}}: {{ post.title }}</itunes:subtitle>
  
  <itunes:summary>
-   {{ post.summary | xml_escape}}
+   {{ post.content | xml_escape}}
  </itunes:summary>
  <itunes:explicit>yes</itunes:explicit>
  
