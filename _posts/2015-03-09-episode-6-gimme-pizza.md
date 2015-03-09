@@ -7,7 +7,7 @@ length: 39129088
 duration: "32:33"
 link: http://quirkey.com/brt/brt-006-160.mp3
 summary: >
-When it comes to our obsessions, nothing comes closer to reaching our inner souls then the humble Pizza Pie. We talk about our pizza ideals, some of our pizza at home rules, and generally why this simple food is so central to our lives.
+  When it comes to our obsessions, nothing comes closer to reaching our inner souls then the humble Pizza Pie. We talk about our pizza ideals, some of our pizza at home rules, and generally why this simple food is so central to our lives.
 ---
 When it comes to our obsessions, nothing comes closer to reaching our inner souls then the humble Pizza Pie. We talk about our pizza ideals, some of our pizza at home rules, and generally why this simple food is so central to our lives.
 
