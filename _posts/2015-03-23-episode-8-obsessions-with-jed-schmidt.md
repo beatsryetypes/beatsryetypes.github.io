@@ -15,10 +15,10 @@ In the first of many episodes where we drag some of our friends and colleages on
 
 ### Links, etc
 
-* <strong>Music</strong>: Five Deez/Fat Jon "Omni (Instrumental)", Chosen by AQ. [Spotify](https://open.spotify.com/track/5KITIwa3cEjLVYrs4QSWCY) [iTunes](https://itunes.apple.com/us/album/koolmotor-instrumentals/id354644844)
+* <strong>Music</strong>: Five Deez/Fat Jon "Omni (Instrumental)", Chosen by AQ. [Spotify](https://open.spotify.com/track/5KITIwa3cEjLVYrs4QSWCY), [iTunes](https://itunes.apple.com/us/album/koolmotor-instrumentals/id354644844)
 * Our Special Guest, Jed Schmidt: [Homepage](http://jed.is), [@jedschmidt](https://twitter.com/jedschmidt)
 * Hidetsugu Ueno of Bar High Five, Tokyo <https://www.facebook.com/hidetsugu.ueno> <https://www.youtube.com/watch?v=mnnbDeVC_ro>
 * Wintersmiths Ice Chest <http://www.wintersmiths.com/products/ice-chest>
 * The deep bread forum where AQ spends all his time now <http://www.thefreshloaf.com/>
-* Avi Arenfeld: AQ's Bro who you should follow [Ceramics](http://aviarenfeld.com/) [Twitter](https://twitter.com/aviarenfeld)
+* Avi Arenfeld: AQ's Bro who you should follow [Ceramics](http://aviarenfeld.com/), [Twitter](https://twitter.com/aviarenfeld)
 * Jed's Barbershop Music <https://soundcloud.com/jedschmidt>
