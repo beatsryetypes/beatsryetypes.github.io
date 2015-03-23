@@ -1,0 +1,23 @@
+---
+layout: post
+title:  "Episode 8: Current Obsessions with Jed Schmidt"
+date:   2015-03-23 09:00
+categories: episodes
+length: 47951872
+duration: "39:54"
+link: http://quirkey.com/brt/brt-008-160.mp3
+summary: >
+  In the first of many episodes where we drag some of our friends and colleages on to talk with us, we leaned on our friend [Jed](http://jed.is) to talk about something we all share in common: Obsession. We're all united not by our obsessions themselves, but the fact that we're obsessed. This leads us on a great discussion of clear ice, sourdough, ceramics, and humanity itself.
+---
+In the first of many episodes where we drag some of our friends and colleages on to talk with us, we leaned on our friend [Jed](http://jed.is) to talk about something we all share in common: Obsession. We're all united not by our obsessions themselves, but the fact that we're obsessed. This leads us on a great discussion of clear ice, sourdough, ceramics, and humanity itself.
+
+<!-- more -->
+
+### Links, etc
+
+* <strong>Music</strong>: Five Deez/Fat Jon "Omni (Instrumental)", Chosen by AQ. [Spotify](https://open.spotify.com/track/5KITIwa3cEjLVYrs4QSWCY) [iTunes](https://itunes.apple.com/us/album/koolmotor-instrumentals/id354644844)
+* Our Special Guest, Jed Schmidt: [Homepage](http://jed.is), [@jedschmidt](https://twitter.com/jedschmidt)
+* Hidetsugu Ueno of Bar High Five, Tokyo <https://www.facebook.com/hidetsugu.ueno> <https://www.youtube.com/watch?v=mnnbDeVC_ro>
+* Wintersmiths Ice Chest <http://www.wintersmiths.com/products/ice-chest>
+* The deep bread forum where AQ spends all his time now <http://www.thefreshloaf.com/>
+
