@@ -20,4 +20,4 @@ In the first of many episodes where we drag some of our friends and colleages on
 * Hidetsugu Ueno of Bar High Five, Tokyo <https://www.facebook.com/hidetsugu.ueno> <https://www.youtube.com/watch?v=mnnbDeVC_ro>
 * Wintersmiths Ice Chest <http://www.wintersmiths.com/products/ice-chest>
 * The deep bread forum where AQ spends all his time now <http://www.thefreshloaf.com/>
-
+* Avi Arenfeld: AQ's Bro who you should follow[Ceramics](http://aviarenfeld.com/) [Twitter](https://twitter.com/aviarenfeld)
