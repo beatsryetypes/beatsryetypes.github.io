@@ -6,7 +6,7 @@
 
 
 // Our variables
-$base-font-family: Helvetica, Arial, sans-serif;
+$base-font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
 $base-font-size:   16px;
 $small-font-size:  $base-font-size * 0.875;
 $base-line-height: 1.5;
@@ -106,5 +106,50 @@ h1, h2 {
     padding: 4px 10px;
     border: none;
     margin: 10px 0px;
+  }
+}
+
+body.pizza {
+  background: url(/images/pizzas.jpg) repeat;
+  text-align: center;
+  a {
+    color: #fffac6;
+    text-decoration: underline;
+  }
+  .main {
+    color: #FFF;  
+    text-align: left;
+    margin: 0px auto;
+    padding: 10px 20px;
+    width: 800px;
+    background: url(/images/main-bg.png) repeat transparent;
+  }
+  .desc {
+      float: left;
+      width: 370px;
+      padding-right: 50px;
+  }
+  .signup {
+      text-align: left;
+      font-size: 18px;
+      float: left;
+      width: 350px;
+      font-weight: bold;
+  }
+  footer {
+    clear: both;
+    width: 100%;
+  }
+  #mc_embed_signup {
+    color: #FFF;
+    text-align: left;
+    input[type=submit] {
+      font-weight: bold;
+      font-size: 18px;
+      background: #b11a00;
+      padding: 4px 10px;
+      border: none;
+      margin: 10px 0px;
+    }
   }
 }
