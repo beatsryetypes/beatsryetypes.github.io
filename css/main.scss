@@ -143,9 +143,13 @@ body.pizza {
   #mc_embed_signup {
     color: #FFF;
     text-align: left;
+    input {
+      width: 100%;
+    }
     input[type=submit] {
       font-weight: bold;
       font-size: 18px;
+      width: 100%
       background: #b11a00;
       padding: 4px 10px;
       border: none;
@@ -153,3 +157,18 @@ body.pizza {
     }
   }
 }
+
+ @include media-query($on-palm) {
+   body.pizza {
+      .main {
+        width: 320px;
+        margin: 0px 20px;
+      }
+      .main h1 img {
+        width: 100%;
+      }
+      .desc, .signup {
+        width: 325px;
+      }
+    }
+ }
