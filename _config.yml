@@ -10,6 +10,7 @@ keywords: music,food,programming,computers,aq,mrb,brooklyn
 url: "http://beatsryetypes.com" # the base hostname & protocol for your site
 twitter_username: beatsryetypes
 github_username:  beatsryetypes
+paginate: 4
 
 # Build settings
 markdown: kramdown
