@@ -17,3 +17,5 @@ For the first time, we talk strictly about programming and the concept of magic.
 * <strong>Music</strong>: Tim Maia "Azul Da Cor Do Mar", Chosen by MRB. [Spotify](https://open.spotify.com/track/2JCwgae629iqLMSe67mR9z)
 * [MRB's Post](http://michaelrbernste.in/2015/03/06/the-false-economy-of-generated-methods.html)
 * Martin Fowler on Microservices <http://martinfowler.com/articles/microservices.html>
+* Microservices vs Monoliths <http://www.tomakehurst.com/microservices-and-monoliths-is-there-a-third-way/>
+* Jeff Hodges: The Monorail <http://www.somethingsimilar.com/2012/07/23/monorail/>
