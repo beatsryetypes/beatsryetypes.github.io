@@ -17,6 +17,7 @@ Starting off is never easy. We're no longer really beginners at programming or c
 
 * <strong>Music</strong>: The Clean "Tally Ho", Chosen by MRB. [Spotify](https://open.spotify.com/track/0KDEwuYRlC46HPMVSwd1re), [SoundCloud](https://soundcloud.com/mergerecords/the-clean-tally-ho)
 * [BEATS, RYE & TYPES: THE PIZZA BOOK](http://beatsryetypes.com/pizza)
+* [Rob Carmichael, sole proprietor of Seen Studio and all around swell guy](http://seenstudio.com)
 * [Molto Mario](http://www.foodnetwork.com/shows/molto-mario.html)
 * [Lucky Peach: Should you go to Culinary School](http://luckypeach.com/should-you-go-to-culinary-school/)
 
