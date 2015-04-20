@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Episode 12: Consensus with Camille Fournier"
-date:   2015-04-20 09:00
+date:   2015-04-20 08:45
 categories: episodes
 length: 39569408
 duration: "32:55"
