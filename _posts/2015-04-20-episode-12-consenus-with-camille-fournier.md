@@ -3,14 +3,13 @@ layout: post
 title:  "Episode 12: Consensus with Camille Fournier"
 date:   2015-04-20 09:00
 categories: episodes
-length: 34529280
-duration: "28:43"
-link: http://quirkey.com/brt/brt-011-160.mp3
+length: 39569408
+duration: "32:55"
+link: http://quirkey.com/brt/brt-012-160.mp3
 summary: >
-  Starting off is never easy. We're no longer really beginners at programming or cooking but we try to put ourselves back in the shoes of little AQ and MRB and what it was like to know nothing. OK, we still know very little, How did we learn what little we know?
+  We sit down with one of the people we admire most in <strike>NYC tech</strike> general, Camille Fournier. We get to talk about the typical things around Consensus: What's up with it, Why it's a hard problem, and how managing people is like managing process (or isn't at all). If that doesn't sound appealing, may I interest you in Steak Tartare?
 ---
-Starting off is never easy. We're no longer really beginners at programming or cooking but we try to put ourselves back in the shoes of little AQ and MRB and what it was like to know nothing. OK, we still know very little, How did we learn what little we know?
-
+We sit down with one of the people we admire most in <strike>NYC tech</strike> general, Camille Fournier. We get to talk about the typical things around Consensus: What's up with it, Why it's a hard problem, and how managing people is like managing process (or isn't at all). If that doesn't sound appealing, may I interest you in Steak Tartare?
 <!-- more -->
 
 ### Links, etc
