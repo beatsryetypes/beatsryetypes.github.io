@@ -39,7 +39,7 @@ layout: null
 </itunes:category>
 <itunes:category text="Technology" />
 
- {% for post in site.posts limit:10 %}
+ {% for post in site.posts %}
  
  <item>
  
