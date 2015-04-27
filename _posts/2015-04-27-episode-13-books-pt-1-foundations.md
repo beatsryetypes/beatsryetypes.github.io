@@ -7,8 +7,8 @@ length: 47091712
 duration: "39:11"
 link: http://quirkey.com/brt/brt-013-160.mp3
 summary: >
-In our minds theres nothing more appealing then a lazy Sunday with a pile of books, some good music, and a good dinner at the end of it. Books are a central part of our lives (especially books related to food and computology) so we'll be dedicating a number of episodes to the topic. First we talk about the books that we consider foundational to our crafts. Check the show notes for links to every book we mention.
--
+  In our minds theres nothing more appealing then a lazy Sunday with a pile of books, some good music, and a good dinner at the end of it. Books are a central part of our lives (especially books related to food and computology) so we'll be dedicating a number of episodes to the topic. First we talk about the books that we consider foundational to our crafts. Check the show notes for links to every book we mention.
+---
 In our minds theres nothing more appealing then a lazy Sunday with a pile of books, some good music, and a good dinner at the end of it. Books are a central part of our lives (especially books related to food and computology) so we'll be dedicating a number of episodes to the topic. First we talk about the books that we consider foundational to our crafts. Check the show notes for links to every book we mention.
 <!-- more -->
 
