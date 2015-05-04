@@ -26,8 +26,7 @@ Believe it or not we get complimented a lot. Not on our amazing looks or witty p
 * [Frankies 457](http://www.frankiesspuntino.com/457/457.html)
 * [Danny Bowien]https://twitter.com/dannybowien)
 * [Menu from Frankies/Danny Bowien Popup](https://instagram.com/p/Wx5f8qJLOV/)
-* Vietnamese Shopping Center in VA
-* Rice Paper
+* [Rice Paper, VA](http://ricepaper-tasteofvietnam.com/)
 * [Saison SF](https://twitter.com/dannybowien)
 * [Eleven Madison Park](http://elevenmadisonpark.com/)
 * [Ad Hoc](http://www.thomaskeller.com/ad-hoc)
