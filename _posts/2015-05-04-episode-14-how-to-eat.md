@@ -3,13 +3,13 @@ layout: post
 title:  "Episode 14: How to Eat"
 date:   2015-05-04 08:45
 categories: episodes
-length: 39569408
-duration: "32:55"
+length: 34004992
+duration: "28:17"
 link: http://quirkey.com/brt/brt-014-160.mp3
 summary: >
-  We sit down with one of the people we admire most in <strike>NYC tech</strike> general, Camille Fournier. We get to talk about the typical things around Consensus: What's up with it, Why it's a hard problem, and how managing people is like managing process (or isn't at all). If that doesn't sound appealing, may I interest you in Steak Tartare?
+  Believe it or not we get complimented a lot. Not on our amazing looks or witty personalities, but on our ability to order well at restaurants. This is an art and a skill, not dumb luck. We share some of our favorite memories of eating out, reflect of the surly nature of one of our favorite spots, and talk about the ups and downs of the bon vivant lifestyle.
 ---
-We sit down with one of the people we admire most in <strike>NYC tech</strike> general, Camille Fournier. We get to talk about the typical things around Consensus: What's up with it, Why it's a hard problem, and how managing people is like managing process (or isn't at all). If that doesn't sound appealing, may I interest you in Steak Tartare?
+Believe it or not we get complimented a lot. Not on our amazing looks or witty personalities, but on our ability to order well at restaurants. This is an art and a skill, not dumb luck. We share some of our favorite memories of eating out, reflect of the surly nature of one of our favorite spots, and talk about the ups and downs of the bon vivant lifestyle.
 
 <!-- more -->
 
