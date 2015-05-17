@@ -7,9 +7,9 @@ length: 48048065
 duration: "40:02"
 link: http://quirkey.com/brt/brt-016-160.mp3
 summary: >
-	We spend a lot of time thinking about and caring for our sons and daughters so we enlisted the expertise of one of our good friends and "Old Dad", Andrew Gerrand ([@enneff](https://twitter.com/enneff)) to talk to us about Fatherhood. In this case we get to touch on fatherhood as it relates not only to our actual progeny, but also as the stewardship of a major open-source project (Google's Go language #golang).
+	As you can tell by our terrible senses of humour, we're dads. Since we spend a lot of time thinking about and caring for our sons and daughters, we enlisted the expertise of one of our good friends and "Old Dad", Andrew Gerrand ([@enneff](https://twitter.com/enneff)) to talk to us about fatherhood. In this case we get to touch on fatherhood as it relates not only to our actual kids, but also as the stewardship of a major open-source project (Google's Go language #golang).
 ---
-We spend a lot of time thinking about and caring for our sons and daughters so we enlisted the expertise of one of our good friends and "Old Dad", Andrew Gerrand ([@enneff](https://twitter.com/enneff)) to talk to us about Fatherhood. In this case we get to touch on fatherhood as it relates not only to our actual progeny, but also as the stewardship of a major open-source project (Google's Go language #golang).
+As you can tell by our terrible senses of humour, we're dads. Since we spend a lot of time thinking about and caring for our sons and daughters, we enlisted the expertise of one of our good friends and "Old Dad", Andrew Gerrand ([@enneff](https://twitter.com/enneff)) to talk to us about fatherhood. In this case we get to touch on fatherhood as it relates not only to our actual kids, but also as the stewardship of a major open-source project (Google's Go language #golang).
 
 <!-- more -->
 
@@ -17,4 +17,15 @@ We spend a lot of time thinking about and caring for our sons and daughters so w
 
 * <strong>Music</strong>: Tipper "Tripping the light fantastic", Chosen by Andrew. [Spotify](https://open.spotify.com/track/0g98S76cfQ1KIkKb1ePduY)
 * [All things Andrew Gerrand](http://nf.wh3rd.net/)
+* [The Go Programming Language](https://golang.org/)
 * [BEATS, RYE & TYPES: THE PIZZA BOOK](http://beatsryetypes.com/pizza)
+* [Aaron's Hip-Hop jams](https://soundcloud.com/aquirkey)
+* [Andrew's Synthesizer in Go](https://github.com/nf/sigourney)
+* [Learn programming with Scratch](https://scratch.mit.edu/)
+* [Learn programming with the Khan Academy](https://www.khanacademy.org)
+* [IBM Basic Manual, 1982 (PDF)](http://www.retroarchive.org/dos/docs/basic_ref_1.pdf)
+* [Know Your Meme: PWNED](http://knowyourmeme.com/memes/owned-pwned)
+* [Russ Cox](https://swtch.com/~rsc/)
+* [Rob Pike](http://research.google.com/pubs/r.html)
+* [Richard Hudson on Google Scholar](https://scholar.google.com/citations?user=FejSLgQAAAAJ&hl=en)
+* [The Golang Blog](http://blog.golang.org/)
