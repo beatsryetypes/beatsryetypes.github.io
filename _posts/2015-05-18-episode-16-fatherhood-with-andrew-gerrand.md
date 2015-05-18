@@ -7,7 +7,7 @@ length: 48048065
 duration: "40:02"
 link: http://quirkey.com/brt/brt-016-160.mp3
 summary: >
-	As you can tell by our terrible senses of humour, we're dads. Since we spend a lot of time thinking about and caring for our sons and daughters, we enlisted the expertise of one of our good friends and "Old Dad", Andrew Gerrand ([@enneff](https://twitter.com/enneff)) to talk to us about fatherhood. In this case we get to touch on fatherhood as it relates not only to our actual kids, but also as the stewardship of a major open-source project (Google's Go language #golang).
+  As you can tell by our terrible senses of humour, we're dads. Since we spend a lot of time thinking about and caring for our sons and daughters, we enlisted the expertise of one of our good friends and "Old Dad", Andrew Gerrand ([@enneff](https://twitter.com/enneff)) to talk to us about fatherhood. In this case we get to touch on fatherhood as it relates not only to our actual kids, but also as the stewardship of a major open-source project (Google's Go language #golang).
 ---
 As you can tell by our terrible senses of humour, we're dads. Since we spend a lot of time thinking about and caring for our sons and daughters, we enlisted the expertise of one of our good friends and "Old Dad", Andrew Gerrand ([@enneff](https://twitter.com/enneff)) to talk to us about fatherhood. In this case we get to touch on fatherhood as it relates not only to our actual kids, but also as the stewardship of a major open-source project (Google's Go language #golang).
 
