@@ -27,6 +27,6 @@ We sit down with one of the people we admire most in <strike>NYC tech</strike> g
 * [etcd](https://github.com/coreos/etcd)
 * [Craft Conference](http://craft-conf.com/2015)
 * [Zookeeper for the Skeptical Architect](https://www.youtube.com/watch?v=j4uwKP7WJFk)
-* [Brian Getz, Clojure Conj](https://www.youtube.com/watch?v=2y5Pv4yN0b0)
+* [Brian Goetz, Clojure Conj](https://www.youtube.com/watch?v=2y5Pv4yN0b0)
 * [Camille's Favorite Recipe: Balthazar Steak Tartare](http://www.seriouseats.com/recipes/2008/11/balthazars-steak-tartare-recipe.html)
 
