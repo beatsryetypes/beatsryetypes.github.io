@@ -5,7 +5,7 @@ date:   2015-02-01 09:00
 categories: episodes
 length: 32927744
 duration: "27:23"
-link: http://quirkey.com/brt/brt-002-160.mp3
+link: http://d5e3yh7f757go.cloudfront.net/eps/brt-002-160.mp3
 summary: >
   What's the NEW HOTNESS in Computology and Cooking (at least according to MRB and AQ)?. We discuss Haskell theorem solvers, container technology, the DC Food Scene, and good eats in unexpected places.
 ---

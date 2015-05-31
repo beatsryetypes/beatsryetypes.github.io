@@ -5,7 +5,7 @@ date:   2015-03-30 09:00
 categories: episodes
 length: 42039296
 duration: "34:58"
-link: http://quirkey.com/brt/brt-009-160.mp3
+link: http://d5e3yh7f757go.cloudfront.net/eps/brt-009-160.mp3
 summary: >
   For the first time, we talk strictly about programming and the concept of magic. Sadly not of the WIZARD variety, but about how we often have to think about and make tradeoffs around the magic that our tools and frameworks provide us. We talk about our favorite magical tools and tell some stories about when we've been cursed by its lure.
 ---

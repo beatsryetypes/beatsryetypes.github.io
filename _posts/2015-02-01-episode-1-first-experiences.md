@@ -5,7 +5,7 @@ date:   2015-02-01 09:00
 categories: episodes
 length: 29329408
 duration: "24:17"
-link: http://quirkey.com/brt/brt-001-160.mp3
+link: http://d5e3yh7f757go.cloudfront.net/eps/brt-001-160.mp3
 summary: >
   First! We break the proverbial ice by talking about our first experiences with great food and early computers. We yap about VAX, Ti-83s, Geocities, King Salmon, and that East Village Canolli tradition. 
 ---
