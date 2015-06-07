@@ -17,11 +17,12 @@ As we prepare for some upcoming speaking engagements, we discuss our different p
 
 * <strong>Music</strong>: Novos Baianos "Brasil Pandeiro", Chosen by MRB. [Spotify](https://open.spotify.com/track/2Er0f1mhO0g1rov9Cdi5Wk)
 * [BEATS, RYE & TYPES: THE PIZZA BOOK](http://beatsryetypes.com/pizza)
-* Idris
-* The Idris Compile Toolchain
+* [The Idris Programming Language](http://www.idris-lang.org/)
+* [The Idris Compiler Toolchain (PDF)](http://eb.host.cs.st-andrews.ac.uk/drafts/compile-idris.pdf)
+* ['Modern Compiler Implementation' by Andrew Appel](https://www.cs.princeton.edu/~appel/modern/)
 * [Dave Thomas](http://pragdave.me/)
-* [Dave Thomas, The Ruby Object Model](https://www.youtube.com/watch?v=X2sgQ38UDVY)
-* [Jim Weirich](https://www.youtube.com/watch?v=At0Os4SEhmM)
+* ['The Ruby Object Model' by Dave Thomas](https://www.youtube.com/watch?v=X2sgQ38UDVY)
+* ['Shaving with Occam' by Jim Weirich](https://www.youtube.com/watch?v=At0Os4SEhmM)
 * [AQ's Upcoming Talk at Qcon](https://qconnewyork.com/ny2015/presentation/good-bad-and-ugly-growth)
 * [Ruby Nation](http://www.rubynation.org/)
 * [Alexa Hirschfeld](https://twitter.com/alexahirschfeld)
