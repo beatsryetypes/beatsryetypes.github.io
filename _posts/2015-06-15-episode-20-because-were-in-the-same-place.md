@@ -28,8 +28,8 @@ A very special episode: We sat down IN PERSON for the first time as part of the 
 * [Ideas in Food (The Book)](http://www.amazon.com/gp/product/0307717402/ref=as_li_tl?ie=UTF8&camp=1789&creative=390957&creativeASIN=0307717402&linkCode=as2&tag=quirkeycom-20&linkId=QGZ43XOPNZNWYFN3)
 * [Maximum Flavor](http://www.amazon.com/gp/product/0770433219/ref=as_li_tl?ie=UTF8&camp=1789&creative=390957&creativeASIN=0770433219&linkCode=as2&tag=quirkeycom-20&linkId=M4CSPQWW5CPSJ6LH)
 * [Ramenized Noodles](http://blog.ideasinfood.com/ideas_in_food/2014/10/ramenized.html)
-* Maillard Reaction Instagram
-* Home-brew Beer Blogger Chemistry
+* [NaOH No Heat Maillard](https://twitter.com/ariellejjohnson/status/604026800935682048)
+* [Chad Yakobson, Crooked Stave](http://www.crookedstave.com/)
 * [AQ's Meat Fridge](http://aqbasement.herokuapp.com/)
 * [Michael Ruhlman's Charcuterie](http://www.amazon.com/gp/product/0393240053/ref=as_li_tl?ie=UTF8&camp=1789&creative=390957&creativeASIN=0393240053&linkCode=as2&tag=quirkeycom-20&linkId=RFJPHFYA2EQNLL5V)
 * [Salumi (Book)](http://www.amazon.com/gp/product/0393068595/ref=as_li_tl?ie=UTF8&camp=1789&creative=390957&creativeASIN=0393068595&linkCode=as2&tag=quirkeycom-20&linkId=LRSKPFXC2O76PGT7)
