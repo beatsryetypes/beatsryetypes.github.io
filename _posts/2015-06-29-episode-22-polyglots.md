@@ -15,7 +15,7 @@ We've said before that we define ourselves by our tastes, but how can that be wh
 
 ### Links, etc
 
-* <strong>Music</strong>: Neil Diamond "Dry Your Eyes", Chosen by MRB. [Spotify](https://open.spotify.com/track/0vC6Rs1veVABiVFCz4afT0)
+* <strong>Music</strong>: Roky Erikson "Two Headed Dog", Chosen by AQ. [Spotify](https://open.spotify.com/track/2A61UXeruPvEdX6qO4ZhR5)
 * [BEATS, RYE & TYPES: THE PIZZA BOOK](http://beatsryetypes.com/pizza)
 * [You're Gonna Miss Me (Film)](http://www.imdb.com/title/tt0791268/)
 * [Eye Mind Saga (Book)](http://amzn.to/1BMzgsR)
