@@ -17,8 +17,8 @@ As we celebrate the FREEDOM of AMERICA, we discuss the ideas how our culture val
 
 * <strong>Music</strong>: D'Angelo and The Vanguard "The Charade", Chosen by MRB. [Spotify](https://open.spotify.com/track/7gQzzsppcAezKh0HFjrG3q)
 * [BEATS, RYE & TYPES: THE PIZZA BOOK](http://beatsryetypes.com/pizza)
-* Jacobin Mag article
-* [Nina Simone Doc](http://www.netflix.com/title/70308063)
+* [Jacobin Mag: Culture isn't Free](https://www.jacobinmag.com/2015/07/starving-artists-grizzly-bear-poverty-ubi/)
+* [Netflix: ""Nina Simone Doc](http://www.netflix.com/title/70308063)
 * [Richard Prince Instagram Art](http://www.theverge.com/2015/5/30/8691257/richard-prince-instagram-photos-copyright-law-fair-use)
 * [Kelsey Hightower tweet](https://twitter.com/kelseyhightower/status/616781831782830080)
 * [Andre Arko](https://twitter.com/indirect)
