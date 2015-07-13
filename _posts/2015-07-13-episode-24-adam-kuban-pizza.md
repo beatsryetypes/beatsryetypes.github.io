@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Episode 24: 'Slicemeister, Talk to Me' with Adam Kuban"
-date:   2015-07-13 08:45
+date:   2015-07-13 08:15
 categories: episodes
 length: 42313728
 duration: "35:12"
