@@ -19,7 +19,7 @@ summary: >
 * <strong>Music</strong>: Will Bradley & His Orchestra "Celery Stalks at Midnight", Chosen by Carin. [Spotify](https://open.spotify.com/track/02QookDbhcVBcGu2uOt7K8)
 * [Our Special Guest: Carin Meier](http://gigasquidsoftware.com/)
 * [Carin's Robot Talk from Strangeloop](https://www.youtube.com/watch?v=3_zW63dcZB0)
-Jon Mcartrhy lisp/AI papers
+* [John McCarthy](http://www-formal.stanford.edu/jmc/)
 * [Overtone](http://overtone.github.io/)
 * [Meta-eX](http://meta-ex.com/)
 * [Sam Aaron](https://twitter.com/samaaron)
