@@ -9,7 +9,7 @@ link: http://d5e3yh7f757go.cloudfront.net/eps/brt-025-160.mp3
 summary: >
   
 ---
-Descirption, blah blah
+"Hmmmmm...could control with REPL..." Robot music dance parties, raising chickens, artificial intelligence, and chemical computing are just some of Carin Meier's interests. She's cut from the same obsessive cloth as we are, and we have a great time on this episode exploring learning, connecting with others on the internet, and more. Having guests on the show always brings us in interesting directions - join us!
 <!-- more -->
 
 ### Links, etc
@@ -23,9 +23,9 @@ Jon Mcartrhy lisp/AI papers
 * [Sam Aaron](https://twitter.com/samaaron)
 * [Sonic Pi](http://sonic-pi.net/)
 * [Logo Lang](https://turtleacademy.com/)
-* Leslie Lamport
-* Byzantine Failure
+* [Leslie Lamport](http://www.lamport.org/)
+* [Byzantine Fault Tolerance](https://en.wikipedia.org/wiki/Byzantine_fault_tolerance)
 * [Maurice Sendak Article](http://gigasquidsoftware.com/blog/2015/05/30/wilds-horses-things-and-creativity/)
 * [Maurice Sendak Interview w/Colbert](http://thecolbertreport.cc.com/videos/gzi3ec/grim-colberty-tales-with-maurice-sendak-pt--1)
-* Philip Glass
-* A Folly
+* [Philip Glass](https://en.wikipedia.org/wiki/Philip_Glass)
+* [A Folly](https://en.wikipedia.org/wiki/Folly)
