@@ -10,6 +10,8 @@ summary: >
   After a little hiatus we catch up with good friend and other Aaron, Aaron Patterson. We talk about Aaron's full time work on in Open Source (Ruby and Rails), making salami, how his cats are great ice-breakers, and how he applies the punk ethos to every day life.
 ---
 After a little hiatus we catch up with good friend and other Aaron, Aaron Patterson. We talk about Aaron's full time work on in Open Source (Ruby and Rails), making salami, how his cats are great ice-breakers, and how he applies the punk ethos to every day life.
+
+*Editors Note: Even with his fancy new mic, unfortunately, there were some problems with Aaron's recording. I did my best to salvage and clean but we had to cut a pretty significant section out around 21:00. I also had to leave in a little piece of damaged audio just to have the conversation make any sense.*
 <!-- more -->
 
 ### Links, etc
