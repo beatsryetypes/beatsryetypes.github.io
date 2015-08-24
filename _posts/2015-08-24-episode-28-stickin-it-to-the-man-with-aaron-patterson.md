@@ -1,0 +1,27 @@
+---
+layout: post
+title:  "Episode 28: Stickin it to The Man with Aaron Patterson"
+date:   2015-08-24 08:15
+categories: episodes
+length: 33167360
+duration: "27:35"
+link: http://d5e3yh7f757go.cloudfront.net/eps/brt-028-160.mp3
+summary: >
+  After a little hiatus we catch up with good friend and other Aaron, Aaron Patterson. We talk about Aaron's full time work on in Open Source (Ruby and Rails), making salami, how his cats are great ice-breakers, and how he applies the punk ethos to every day life.
+---
+After a little hiatus we catch up with good friend and other Aaron, Aaron Patterson. We talk about Aaron's full time work on in Open Source (Ruby and Rails), making salami, how his cats are great ice-breakers, and how he applies the punk ethos to every day life.
+<!-- more -->
+
+### Links, etc
+
+* <strong>Music</strong>: Unkown Mortal Orchestra "Multi-love", Chosen by Aaron Patterson. [Spotify](https://open.spotify.com/track/0PEXp5yk0sx9dJ8JzwvjJb)
+* [Our Special Guest: Aaron Patterson aka @tenderlove](https://twitter.com/tenderlove)
+* [KEXP Top Charts](http://kexp.org/lists/TopAlbumsOf2014)
+* [@tenderlove on github](https://github.com/tenderlove)
+* [Ruby on Rails Core Team](http://rubyonrails.org/core/)
+* [Ruby core team](https://www.ruby-lang.org/en/community/ruby-core/)
+* [Why the lucky stiff's poingnant guide to ruby](http://mislav.uniqpath.com/poignant-guide/)
+* [phuby on phails](https://www.youtube.com/watch?v=lsWKjS6Vufw)
+* [Ruby Kaigi 2009](http://rubykaigi.org/2009/en)
+* [Gorbypuff](https://twitter.com/gorbypuff)
+* [Leonard Chin](https://twitter.com/lchin)
