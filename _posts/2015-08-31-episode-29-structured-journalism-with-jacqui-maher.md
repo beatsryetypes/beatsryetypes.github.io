@@ -31,7 +31,7 @@ We catch up with our old friend Jacqui Maher, formerly of New York City and curr
 * ['Structured journalism' offers readers a different kind of story experience, from CJR](http://www.cjr.org/innovations/structured_journalism.php)
 * [Why the Islamic State leaves tech companies torn between free speech and security, from The Washington Post](https://www.washingtonpost.com/world/national-security/islamic-states-embrace-of-social-media-puts-tech-companies-in-a-bind/2015/07/15/0e5624c4-169c-11e5-89f3-61410da94eb1_story.html?kmap=1&pr=1)
 * [The BBC royal charter](http://www.bbc.co.uk/bbctrust/governance/regulatory_framework/charter_agreement.html)
-* [Storybase: Towards Building a Knowledge Base for News Events](http://www.aclweb.org/anthology/P15-4023)
+* [A Fresh Look on Knowledge Bases: Distilling Named Events from News (PDF)](https://people.mmci.uni-saarland.de/~jilles/pubs/2014/eventkb-kuzey,vreeken,weikum.pdf)
 * [GDELT](http://gdeltproject.org/)
 * [BBC linked data platform](http://www.bbc.co.uk/blogs/internet/entries/af6b613e-6935-3165-93ca-9319e1887858)
 * [ontotext GraphDB](http://ontotext.com/products/ontotext-graphdb/)
