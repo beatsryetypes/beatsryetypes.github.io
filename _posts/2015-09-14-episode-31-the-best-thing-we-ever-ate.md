@@ -16,15 +16,14 @@ Inspired by listeners who tell us that this show makes them too hungry, we take 
 ### Links, etc
 
 * <strong>Music</strong>: Remember, "スカイライン Skyline" Chosen by AQ. [Bandcamp](https://dreamcatalogue.bandcamp.com/track/skyline)
+* [Welcome Back, Kotter](https://en.wikipedia.org/wiki/Welcome_Back,_Kotter)
 * [Eleven Madison Park](http://elevenmadisonpark.com/)
-* [Blue Hill Stone Barns](https://www.bluehillfarm.com/dine/stone-barns)
+* [What Is An Egg Cream?](https://en.wikipedia.org/wiki/Egg_cream)
+* [Blue Hill At Stone Barns](https://www.bluehillfarm.com/dine/stone-barns)
 * [The Modern](http://www.themodernnyc.com/)
-* [the best pho in paris](http://www.tripadvisor.com/Restaurant_Review-g187147-d719829-Reviews-Pho_14-Paris_Ile_de_France.html)
-* [el farolito (if you're in SF go to the one on 24th NOT on Mission)](http://www.yelp.com/biz/el-farolito-san-francisco-2)
+* [The Best Pho in Paris](http://www.tripadvisor.com/Restaurant_Review-g187147-d719829-Reviews-Pho_14-Paris_Ile_de_France.html)
+* [Burritos from El Farolito (if you're in SF go to the one on 24th NOT on Mission)](http://www.yelp.com/biz/el-farolito-san-francisco-2)
 * [Defontes](http://defontesofbrooklyn.com/)
-* [brick lane beigel](http://www.tripadvisor.com/Restaurant_Review-g186338-d717862-Reviews-Brick_Lane_Beigel_Bakery-London_England.html)
-* [the gina di palma book italian desert book](http://amzn.to/1KmZeVZ)
-
-
-
-
+* [Brick Lane Beigel](http://www.tripadvisor.com/Restaurant_Review-g186338-d717862-Reviews-Brick_Lane_Beigel_Bakery-London_England.html)
+* [mrb's Favorite Dessert Cookbook by Gina De Palma](http://amzn.to/1KmZeVZ)
+* [We Are On Facebook!](https://www.facebook.com/beatsryetypes)
