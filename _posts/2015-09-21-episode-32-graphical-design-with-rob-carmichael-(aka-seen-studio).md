@@ -11,9 +11,9 @@ summary: >
 ---
 Rob Carmichael is the founder and proprietor of Seen Studio, a graphic(al) design studio that produces instantly recognizable album covers that visually connect listeners to music in an age when that sort of thing is supposed to be dead. We discuss music, the magic of DIY, art and labor, and why he does what he does. We love learning from experts and Rob is a standout in his field, a dedicated craftsman, and a true mensch.
 
-<!-- More -->
+<!-- more -->
 
-### Links & More
+### Links, etc
 
 * <strong>Music:</strong> The Chills, "Night of Chill Blue" [YouTube](https://www.youtube.com/watch?v=_wfocIcoXLs)
 * [Special Guest: Rob Carmichael, Seen Studio @seenstudio](https://twitter.com/seenstudio) [Portfolio](http://www.seenstudio.com/)
