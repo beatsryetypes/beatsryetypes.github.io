@@ -16,10 +16,9 @@ Rob Carmichael is the founder and proprietor of Seen Studio, a graphic(al) desig
 ### Links & More
 
 * <strong>Music:</strong> The Chills, "Night of Chill Blue" [YouTube](https://www.youtube.com/watch?v=_wfocIcoXLs)
-* [Special Guest: Rob Carmichael, Seen Studio](http://www.seenstudio.com/)
+* [Special Guest: Rob Carmichael, Seen Studio @seenstudio](https://twitter.com/seenstudio) [Portfolio](http://www.seenstudio.com/)
 * [Rob's Interview on Noisey](http://noisey.vice.com/blog/cash-money-records-designer-artist-rob-carmichael)
 * [Shrimper Records Discography](http://www.underwaternow.com/ihearstrangemusic/shrimper.htm)
-* [Ajax Catalog]()
 * [Chris Knox](https://en.wikipedia.org/wiki/Chris_Knox)
 * [The Chills](https://en.wikipedia.org/wiki/The_Chills)
 * [The Bats](https://en.wikipedia.org/wiki/The_Bats_(New_Zealand_band))
