@@ -58,7 +58,7 @@ end
 
 def upload_to_soundclound(mp3_path: "", title: "", description: "", tag_list: "", release: "", release_time: Time.now)
   client = soundcloud_client
-  markdown = Redcarpet::Markdown.new(Redcarpet::Render::HTML, autolink: true, tables: true)
+  markdown = Redcarpet::Markdown.new(Redcarpet::Render::HTML)
   puts "Posting #{mp3_path}"
   track_params = {
     :title      => title,

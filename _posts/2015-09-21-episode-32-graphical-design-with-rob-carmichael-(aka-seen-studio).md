@@ -5,6 +5,14 @@ date: 2015-09-21 08:15
 categories: episodes
 length: 50110464
 duration: '41:41'
+tag_list: >
+  music albums seenstudio diy "dirty projectors" "animal collective" "black dice" dfa craft
+ratings:
+  - giggle: 8
+  - music: 10
+  - computology: 1
+  - food: 1
+guest: true
 link: http://d5e3yh7f757go.cloudfront.net/eps/brt-032-160.mp3
 summary: >
   Rob Carmichael is the founder and proprietor of Seen Studio, a graphic(al) design studio that produces instantly recognizable album covers that visually connect listeners to music in an age when that sort of thing is supposed to be dead. We discuss music, the magic of DIY, art and labor, and why he does what he does. We love learning from experts and Rob is a standout in his field, a dedicated craftsman, and a true mensch.
