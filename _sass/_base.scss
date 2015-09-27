@@ -93,7 +93,7 @@ a {
     text-decoration: none;
 
     &:visited {
-        color: darken($brand-color, 15%);
+        color: darken($brand-color, 10%);
     }
 
     &:hover {
@@ -193,12 +193,15 @@ pre {
 
     > svg {
         display: inline-block;
-        width: 16px;
-        height: 16px;
+        width: 24px;
+        height: 24px;
         vertical-align: middle;
-
-        path {
-            fill: $grey-color;
-        }
+    }
+    &.icon--email {
+      > svg {
+          width: 30px;
+          padding: 0px;
+          height: 24px;
+      }
     }
 }

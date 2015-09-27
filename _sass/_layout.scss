@@ -162,8 +162,24 @@
 /**
  * Page content
  */
+.content {
+  position: relative;
+}
 .page-content {
     padding: $spacing-unit;
+    max-width: $content-width;
+    border-right: 1px solid #E5E5E5
+}
+
+.sidebar {
+  width: $sidebar-width;
+  position: absolute;
+  top: 10px;
+  left: $content-width + ($spacing-unit * 2);
+  padding-left: 20px;
+  p {
+    padding: 5px 0px 0px 0px;
+  }
 }
 
 .page-heading {

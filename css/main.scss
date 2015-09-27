@@ -3,10 +3,18 @@
 ---
 @charset "utf-8";
 
-
+@font-face {
+    font-family: "Cooper Hewitt Heavy";
+    font-style: normal;
+    font-weight: bold;
+    src: url("/fonts/cooper-hewitt/CooperHewitt-Heavy.eot?") format("eot"),
+         url("/fonts/cooper-hewitt/CooperHewitt-Heavy.woff") format("woff"),
+         url("/fonts/cooper-hewitt/CooperHewitt-Heavy.ttf") format("truetype"),
+         url("/fonts/cooper-hewitt/CooperHewitt-Heavy.svg#CooperHewitt-Heavy") format("svg");
+}
 
 // Our variables
-$base-font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+$base-font-family: Palatino, "Times New Roman", serif;
 $base-font-size:   16px;
 $small-font-size:  $base-font-size * 0.875;
 $base-line-height: 1.5;
@@ -25,14 +33,14 @@ $content-width:    800px;
 
 $on-palm:          600px;
 $on-laptop:        800px;
-$side-width:       300px;
+$sidebar-width:       300px;
 
 $yellow: #fbd78a;
 $purple: rgb(27,6,40);
 $red: #e62621;
 $green: #79b838;
 
-$brand-color: #333;
+$brand-color: darken($red, 20%);
 
 // Using media queries with like this:
 // @include media-query($on-palm) {
@@ -58,19 +66,19 @@ $brand-color: #333;
 
 
 .description {
-  color: $yellow;
+  color: #333;
   font-weight: bold;
-  font-size: 18px;
-  padding-top: 50px;
-  text-align: right;
+  font-size: 24px;
+  text-align: left;
   p {
-    padding-top: 20px;
+    padding: 20px 0px 5px 0px;
     font-style: italic;
   }
   a:hover {
     color: white;
   }
 }
+
 
 .site-footer {
   background: $purple;
@@ -86,26 +94,66 @@ $brand-color: #333;
 
 // posts
 h1, h2 {
-  font-weight: bold;
+  font-family: "Cooper Hewitt Heavy"
 }
 
+.sidebar {
+  h2 {
+    font-family: $base-font-family;
+    font-size: 18px;
+    font-weight: bold;
+    font-style: italic;
+    color: #666;
+    border-top: 1px #E5E5E5 solid;
+    margin: 10px 0px;
+    padding: 5px 0px 5px 0px;
+  }
+  .signup {
+    border-top: 1px #E5E5E5 solid;
+    padding-top: 5px;
+    a {
+      color: #000;
+      font-weight: bold;
+    }
+  }
+  .patreon {
+    padding-top: 5px;
+    border-top: 1px #E5E5E5 solid;
+    font-size: 18px;
+    a {
+      color: #2B57E0;
+    }
+  }
+  .about {
+    .bio {
+      font-size: 80%;
+      img {
+        float: right;
+        padding: 5px;
+      }
+    }
+  }
+
+}
+
+
 #mc_embed_signup {
-  margin-top: 10px;
+  padding: 0px 0px 0px 0px;
   font-weight: bold;
-  color: $green;
-  text-align: right;
   label {
     display: block;
   }
   input[type=email] {
     padding: 4px;
-    width: 200px;
+    width: 100px;
   }
   input[type=submit] {
     font-weight: bold;
-    background: $green;
+    background: $red;
+    color: #fff;
     padding: 4px 10px;
     border: none;
+    display: inline;
     margin: 10px 0px;
   }
 }
