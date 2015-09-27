@@ -10,8 +10,9 @@ S3_BUCKET = 'beatsryetypes'
 def migrate_to_soundcloud(post_path)
   post_data = YAML.load_file(post_path)
   ep_num = post_path.match(/episode-(\d+)/)[1].to_i
+  episode = Episode.new(ep_num: ep_num)
   upload_to_soundclound(
-    mp3_path: mp3_path(ep_num),
+    mp3_path: episode.mp3_path,
     title: post_data['title'],
     description: post_data['summary'],
     release_time: Time.parse(post_data['date']),
@@ -53,32 +54,84 @@ def upload_to_soundclound(mp3_path: "", title: "", description: "", tag_list: ""
   track.permalink_url
 end
 
-def mp3_filename(ep_num)
-  "brt-#{"%03d" % ep_num}-160.mp3"
-end
 
-def mp3_path(ep_num)
-   File.join(MP3_DIR, mp3_filename(ep_num))
-end
+class Episode
+  attr_accessor :ep_num, :title
 
-def mp3_info(ep_num)
-  Mp3Info.new(mp3_path(ep_num))
-end
+  def initialize(ep_num: nil, title: "")
+    self.ep_num = ep_num.to_i
+    self.title  = title
+  end
 
-def copy_mp3_info(ep_num, title)
-  last_mp3_info = mp3_info(ep_num - 1)
-  new_mp3_info = mp3_info(ep_num)
+  def process!
+    filename = write_new_markdown
+    copy_mp3_info
+  #  upload_to_s3
+  end
 
-  new_title = "Beats, Rye & Types - Episode #{ep_num} - #{title}"
-  new_mp3_info.tag2 = last_mp3_info.tag2
-  new_mp3_info.tag.title = new_title
-  new_mp3_info.tag.tracknum = ep_num
-  new_mp3_info.tag.year = Time.now.year
-  new_mp3_info.close
-end
+  def write_new_markdown
+    now = Time.now
+    this_coming_monday = now + ((1 - now.wday) * 60 * 60 * 24)
+    timestamp = this_coming_monday.strftime('%Y-%m-%d') 
+    most_recent = Dir['_posts/*.md'].sort.last
+    new_filename = "_posts/#{timestamp}-episode-#{ep_num}-#{title.downcase.gsub(/ /, '-')}.md"
+    new_data = YAML.load_file(most_recent)
+    stats = File.stat(mp3_path)
+    info = mp3_info
+    duration = "%d:%d" % [info.length / 60, info.length % 60]
+    new_data['title'] = "Episode #{ep_num}: #{title}"
+    new_data['date'] = "#{timestamp} 08:15"
+    new_data['link'] = "http://d5e3yh7f757go.cloudfront.net/eps/#{mp3_filename}"
+    new_data['length'] = stats.size
+    new_data['duration'] = duration
+    File.open(new_filename, 'w') {|f| 
+      f << YAML.dump(new_data) 
+      f << <<-EOT
+---
+<!-- more -->
 
-def upload_to_s3(ep_num)
-  s3 = Aws::S3::Resource.new(region: 'us-east-1')
-  obj = s3.bucket(S3_BUCKET).object("eps/#{mp3_filename(ep_num)}")
-  obj.upload_file(mp3_path(ep_num), acl:'public-read')
+### Links, etc
+
+* <strong>Music</strong>: Blah "Blah", Chosen by Blah. [Spotify](https://open.spotify.com/track/2JCwgae629iqLMSe67mR9z)
+
+EOT
+    }
+    new_filename
+  end
+
+  def mp3_filename
+    "brt-#{"%03d" % ep_num}-160.mp3"
+  end
+
+  def mp3_path
+     File.join(MP3_DIR, mp3_filename)
+  end
+
+  def mp3_info
+    Mp3Info.new(mp3_path)
+  end
+
+  def copy_mp3_info
+    last_mp3_info = Episode.new(ep_num: ep_num - 1).mp3_info
+    new_mp3_info = mp3_info
+
+    fields_to_copy = %w{APIC TALB TPE1}
+    new_title = "Beats, Rye & Types - Episode #{ep_num} - #{title}"
+    new_mp3_info.tag.title = new_title
+    fields_to_copy.each do |f|
+      new_mp3_info.tag2[f] = last_mp3_info.tag2[f]
+    end
+    new_mp3_info.tag.tracknum = ep_num
+    new_mp3_info.tag.year = Time.now.year
+    new_mp3_info.close
+  end
+
+  def upload_to_s3
+    puts "Uploading to S3"
+    s3 = Aws::S3::Resource.new(region: 'us-east-1')
+    obj = s3.bucket(S3_BUCKET).object("eps/#{mp3_filename}")
+    obj.upload_file(mp3_path, acl:'public-read')
+    puts "Upload #{obj.public_url}"
+  end
+
 end
