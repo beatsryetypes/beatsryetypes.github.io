@@ -1,0 +1,8 @@
+source "https://rubygems.org"
+
+gem 'mp3info'
+gem 'soundcloud'
+gem 'redcarpet'
+gem 'aws-sdk', '~>2'
+gem 'pry'
+
