@@ -5,6 +5,7 @@ date:   2015-03-23 09:00
 categories: episodes
 length: 47951872
 duration: "39:54"
+guest: true
 link: http://d5e3yh7f757go.cloudfront.net/eps/brt-008-160.mp3
 summary: >
   In the first of many episodes where we drag some of our friends and colleages on to talk with us, we leaned on our friend [Jed](http://jed.is) to talk about something we all share in common: Obsession. We're all united not by our obsessions themselves, but the fact that we're obsessed. This leads us on a great discussion of clear ice, sourdough, ceramics, and humanity itself.

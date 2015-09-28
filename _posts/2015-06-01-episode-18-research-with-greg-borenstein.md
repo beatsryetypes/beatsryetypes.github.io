@@ -5,9 +5,10 @@ date:   2015-06-01 08:45
 categories: episodes
 length: 49248256
 duration: "40:59"
+guest: true
 link: http://d5e3yh7f757go.cloudfront.net/eps/brt-018-160.mp3
 summary: >
- What is the role of research in computology, food, and music? We get to talk to our friend and scholar, [Greg Borenstein](https://twitter.com/atduskgreg), who's just finished working on finishing his thesis at the MIT Media Lab. We talk about the intersection of art and computers, learning as a curve, and salad dressing. 
+ What is the role of research in computology, food, and music? We get to talk to our friend and scholar, [Greg Borenstein](https://twitter.com/atduskgreg), who's just finished working on finishing his thesis at the MIT Media Lab. We talk about the intersection of art and computers, learning as a curve, and salad dressing.
 ---
 What is the role of research in computology, food, and music? We get to talk to our friend and scholar, [Greg Borenstein](https://twitter.com/atduskgreg), who's just finished working on finishing his thesis at the MIT Media Lab. We talk about the intersection of art and computers, learning as a curve, and salad dressing.
 

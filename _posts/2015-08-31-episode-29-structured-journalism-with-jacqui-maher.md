@@ -5,6 +5,14 @@ date:   2015-08-31 08:15
 categories: episodes
 length: 59052032
 duration: "49:09"
+tag_list: >
+  "Structured Journalism" "Jacqui Maher" BBC "New York Times" "The City" storytelling data
+ratings:
+  - giggle: 7
+  - music: 3
+  - computology: 8
+  - food: 1
+guest: true
 link: http://d5e3yh7f757go.cloudfront.net/eps/brt-029-160.mp3
 summary: >
   We catch up with our old friend Jacqui Maher, formerly of New York City and currently of London (yes, in England!). Jacui joins us to discuss leaving The City, the operator/creator divide, and the cutting edge of digital journalism. We ask how computers can help us deepen connections to complex news, learn about Structured Journalism, and hear Jacqui's philosophy of technology and storytelling.
