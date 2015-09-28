@@ -7,53 +7,6 @@ Bundler.require
 MP3_DIR = File.expand_path(File.join('~', 'Dropbox', 'beatsryetypes', 'finished mp3s'))
 S3_BUCKET = 'beatsryetypes'
 
-def migrate_to_soundcloud(post_path)
-  post_data = YAML.load_file(post_path)
-  ep_num = post_path.match(/episode-(\d+)/)[1].to_i
-  episode = Episode.new(ep_num: ep_num)
-  upload_to_soundclound(
-    mp3_path: episode.mp3_path,
-    title: post_data['title'],
-    description: post_data['summary'],
-    release_time: Time.parse(post_data['date']),
-    release: ep_num
-  )
-end
-
-def soundcloud_client
-  @soundcloud_client ||= SoundCloud.new({
-    :client_id     => ENV['SOUNDCLOUD_CLIENT_ID'],
-    :client_secret => ENV['SOUNDCLOUD_CLIENT_SECRET'],
-    :username      => ENV['SOUNDCLOUD_USERNAME'],
-    :password      => ENV['SOUNDCLOUD_PASSWORD']
-  })
-end
-
-def upload_to_soundclound(mp3_path: "", title: "", description: "", tag_list: "", release: "", release_time: Time.now)
-  client = soundcloud_client
-  markdown = Redcarpet::Markdown.new(Redcarpet::Render::HTML)
-  puts "Posting #{mp3_path}"
-  track_params = {
-    :title      => title,
-    :description => markdown.render(description),
-    :asset_data => File.new(mp3_path),
-    :genre => "Podcast",
-    :tag_list => tag_list,
-    :release => release, #episode #
-    :release_day => release_time.day,
-    :release_month => release_time.month,
-    :release_year => release_time.year,
-    :track_type => "podcast",
-    :license => "cc-by",
-    :sharing => "private"
-  }
-  puts track_params
-  track = client.post('/tracks', :track => track_params)
-  # print new tracks link
-  puts "Uploaded to #{track.permalink_url}"
-  track.permalink_url
-end
-
 
 class Episode
   attr_accessor :ep_num, :title
@@ -66,7 +19,7 @@ class Episode
   def process!
     filename = write_new_markdown
     copy_mp3_info
-  #  upload_to_s3
+    upload_to_s3
   end
 
   def write_new_markdown
@@ -135,3 +88,53 @@ EOT
   end
 
 end
+
+
+def migrate_to_soundcloud(post_path)
+  post_data = YAML.load_file(post_path)
+  ep_num = post_path.match(/episode-(\d+)/)[1].to_i
+  episode = Episode.new(ep_num: ep_num)
+  upload_to_soundclound(
+    mp3_path: episode.mp3_path,
+    title: post_data['title'],
+    description: post_data['summary'],
+    tag_list: post_data['tag_list'],
+    release_time: Time.parse(post_data['date']),
+    release: ep_num
+  )
+end
+
+def soundcloud_client
+  @soundcloud_client ||= SoundCloud.new({
+    :client_id     => ENV['SOUNDCLOUD_CLIENT_ID'],
+    :client_secret => ENV['SOUNDCLOUD_CLIENT_SECRET'],
+    :username      => ENV['SOUNDCLOUD_USERNAME'],
+    :password      => ENV['SOUNDCLOUD_PASSWORD']
+  })
+end
+
+def upload_to_soundclound(mp3_path: "", title: "", description: "", tag_list: "", release: "", release_time: Time.now)
+  client = soundcloud_client
+  markdown = Redcarpet::Markdown.new(Redcarpet::Render::HTML)
+  puts "Posting #{mp3_path}"
+  track_params = {
+    :title      => title,
+    :description => markdown.render(description),
+    :asset_data => File.new(mp3_path),
+    :genre => "Podcast",
+    :tag_list => tag_list,
+    :release => release, #episode #
+    :release_day => release_time.day,
+    :release_month => release_time.month,
+    :release_year => release_time.year,
+    :track_type => "podcast",
+    :license => "cc-by",
+    :sharing => "private"
+  }
+  puts track_params
+  track = client.post('/tracks', :track => track_params)
+  # print new tracks link
+  puts "Uploaded to #{track.permalink_url}"
+  track.permalink_url
+end
+
