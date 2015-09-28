@@ -5,6 +5,13 @@ date:   2015-04-27 08:45
 categories: episodes
 length: 47091712
 duration: "39:11"
+tag_list: >
+  books reading "Harold McGee" CTM "Marco Pierre White" "Peter Meehan" "Thomas Keller" perfection
+ratings:
+  - giggle: 6
+  - music: 1
+  - computology: 9
+  - food: 8
 link: http://d5e3yh7f757go.cloudfront.net/eps/brt-013-160.mp3
 summary: >
   In our minds theres nothing more appealing then a lazy Sunday with a pile of books, some good music, and a good dinner at the end of it. Books are a central part of our lives (especially books related to food and computology) so we'll be dedicating a number of episodes to the topic. First we talk about the books that we consider foundational to our crafts. Check the show notes for links to every book we mention.

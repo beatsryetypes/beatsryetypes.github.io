@@ -1,10 +1,17 @@
 ---
 layout: post
-title:  "Episode 3: Sandwiches are The Best" 
+title:  "Episode 3: Sandwiches are The Best"
 date:   2015-02-16 09:00
 categories: episodes
 length: 29786112
 duration: "24:46"
+tag_list: >
+  sandwiches Defontes Biellese Firehouse
+ratings:
+  - giggle: 8
+  - music: 1
+  - computology: 1
+  - food: 10
 link: http://d5e3yh7f757go.cloudfront.net/eps/brt-003-160.mp3
 summary: >
   We consulted with each other, our spiritual leaders, our therapists, our significant others, and a host of other clerics and determined one thing: Sandwiches are The BEST. We talked about our favorite sandwiches from NYC, our home made opuses, and generally what makes a sandwich great. You might not want to listen to this without a sandwich in hand.

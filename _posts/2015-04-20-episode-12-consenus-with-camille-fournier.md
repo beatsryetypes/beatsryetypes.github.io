@@ -6,6 +6,13 @@ categories: episodes
 length: 39569408
 duration: "32:55"
 guest: true
+tag_list: >
+  "Camille Fournier" consensus "steak tartare" people burnout managing Balthazar
+ratings:
+  - giggle: 7
+  - music: 1
+  - computology: 9
+  - food: 5
 link: http://d5e3yh7f757go.cloudfront.net/eps/brt-012-160.mp3
 summary: >
   We sit down with one of the people we admire most in <strike>NYC tech</strike> general, Camille Fournier. We get to talk about the typical things around Consensus: What's up with it, Why it's a hard problem, and how managing people is like managing process (or isn't at all). If that doesn't sound appealing, may I interest you in Steak Tartare?

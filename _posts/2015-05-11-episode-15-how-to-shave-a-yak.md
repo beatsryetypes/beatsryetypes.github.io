@@ -5,6 +5,13 @@ date:   2015-05-11 08:45
 categories: episodes
 length: 33888256
 duration: "28:11"
+tag_list: >
+  "Yak Shaving" MBTI computology
+ratings:
+  - giggle: 4
+  - music: 1
+  - computology: 9
+  - food: 1
 link: http://d5e3yh7f757go.cloudfront.net/eps/brt-015-160.mp3
 summary: >
   Alternate titles: What is a Yak Shave? How do you know you're Yak Shaving? and (most importantly) You're Going to Shave Some Yaks. We talk about the age old tradition of going on the endless quest that in and of itself has many quests.  

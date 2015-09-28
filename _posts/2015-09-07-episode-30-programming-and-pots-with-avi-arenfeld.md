@@ -6,7 +6,7 @@ categories: episodes
 length: 38105088
 duration: '31:41'
 tag_list: >
-  pottery programming "User Interfaces" "Avi Arenfeld" mastery craftsmanship
+  pottery programming "User Interfaces" "Avi Arenfeld" mastery craftsmanship "Company Flow" "Hip Hop"
 ratings:
   - giggle: 8
   - music: 4

@@ -5,6 +5,13 @@ date:   2015-03-16 09:00
 categories: episodes
 length: 32432128
 duration: "26:58"
+tag_list: >
+  "Hip Hop" Jazz Madlib "Stones Throw" "Fat Beats" "Company Flow"
+ratings:
+  - giggle: 8
+  - music: 10
+  - computology: 1
+  - food: 1
 link: http://d5e3yh7f757go.cloudfront.net/eps/brt-007-160.mp3
 summary: >
   As the snow begins to melt, we start dreaming about summertime and when we dream about summertime, we start thinking about the season's official music: Hip-Hop. We talk about what our first introductions to Hip-Hop were, go deep into the late 90s underground, and finally diverge into Jazz and what _our_ children will be listening to.
