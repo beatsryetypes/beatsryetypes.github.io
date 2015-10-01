@@ -16,7 +16,7 @@ guest: false
 link: http://d5e3yh7f757go.cloudfront.net/eps/brt-033-160.mp3
 summary: |
   When life gives you lemons, preserve them and use them later for a delicous tagine. We've had our share of failure in our lives: some recent, some old scars. We share some reflections on f*ing up and moving on with our lives.
-soundcloud: episode-33-on-failure-1
+soundcloud: 226216990
 ---
 When life gives you lemons, preserve them and use them later for a delicous tagine. We've had our share of failure in our lives: some recent, some old scars. We share some reflections on f*ing up and moving on with our lives.
 

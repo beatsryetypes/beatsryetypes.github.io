@@ -15,7 +15,7 @@ ratings:
 link: http://d5e3yh7f757go.cloudfront.net/eps/brt-014-160.mp3
 summary: |
   Believe it or not we get complimented a lot. Not on our amazing looks or witty personalities, but on our ability to order well at restaurants. This is an art and a skill, not dumb luck. We share some of our favorite memories of eating out, reflect of the surly nature of one of our favorite spots, and talk about the ups and downs of the bon vivant lifestyle.
-soundcloud: episode-14-how-to-eat
+soundcloud: 226214592
 ---
 Believe it or not we get complimented a lot. Not on our amazing looks or witty personalities, but on our ability to order well at restaurants. This is an art and a skill, not dumb luck. We share some of our favorite memories of eating out, reflect of the surly nature of one of our favorite spots, and talk about the ups and downs of the bon vivant lifestyle.
 

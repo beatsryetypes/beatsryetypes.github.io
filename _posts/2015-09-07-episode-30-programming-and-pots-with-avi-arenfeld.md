@@ -16,7 +16,7 @@ guest: true
 link: http://d5e3yh7f757go.cloudfront.net/eps/brt-030-160.mp3
 summary: |
   What does pottery have to do with programming? What do you learn on your journey to be coming a master at both? We get to talk to one of AQ's oldest friends, Avi Arenfeld, a MFA in Ceramic Arts, a rapper, and someone who's just starting their journey into the world of programming. We talk a little about Hip-Hop, pots, and the most intimate user interfaces.
-soundcloud: episode-30-programming-and-1
+soundcloud: 226216641
 ---
 What does pottery have to do with programming? What do you learn on your journey to be coming a master at both? We get to talk to one of AQ's oldest friends, Avi Arenfeld, a MFA in Ceramic Arts, a rapper, and someone who's just starting their journey into the world of programming. We talk a little about Hip-Hop, pots, and the most intimate user interfaces.
 

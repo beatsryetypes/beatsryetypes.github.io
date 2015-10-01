@@ -15,7 +15,7 @@ ratings:
 link: http://d5e3yh7f757go.cloudfront.net/eps/brt-021-160.mp3
 summary: |
   Once again, we got to sit side-by-side as we were both attending GoRuCo in NYC. We talk about The Band, the favorite talks we've seen recently, transpiling, and some of the awesome conferences coming up in the fall.
-soundcloud: episode-21-tin-pan-alley
+soundcloud: 226215335
 ---
 Once again, we got to sit side-by-side as we were both attending GoRuCo in NYC. We talk about The Band, the favorite talks we've seen recently, transpiling, and some of the awesome conferences coming up in the fall.
 

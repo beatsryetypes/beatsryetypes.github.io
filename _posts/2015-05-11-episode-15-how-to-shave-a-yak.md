@@ -16,7 +16,7 @@ link: http://d5e3yh7f757go.cloudfront.net/eps/brt-015-160.mp3
 summary: "Alternate titles: What is a Yak Shave? How do you know you're Yak Shaving?
   and (most importantly) You're Going to Shave Some Yaks. We talk about the age old
   tradition of going on the endless quest that in and of itself has many quests.  \n"
-soundcloud: episode-15-how-to-shave-a-yak
+soundcloud: 226214664
 ---
 Alternate titles: What is a Yak Shave? How do you know you're Yak Shaving? and (most importantly) You're Going to Shave Some Yaks. We talk about the age old tradition of going on the endless quest that in and of itself has many quests.
 

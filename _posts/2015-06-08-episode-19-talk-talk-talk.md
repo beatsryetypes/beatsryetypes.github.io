@@ -15,7 +15,7 @@ ratings:
 link: http://d5e3yh7f757go.cloudfront.net/eps/brt-019-160.mp3
 summary: |
   As we prepare for some upcoming speaking engagements, we discuss our different philosophies around giving talks at conferences and also give some tips to aspiring speakers in the computology community.
-soundcloud: episode-19-talk-talk-talk
+soundcloud: 226215146
 ---
 As we prepare for some upcoming speaking engagements, we discuss our different philosophies around giving talks at conferences and also give some tips to aspiring speakers in the computology community.
 

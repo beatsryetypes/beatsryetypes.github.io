@@ -15,7 +15,7 @@ ratings:
 link: http://d5e3yh7f757go.cloudfront.net/eps/brt-031-160.mp3
 summary: |
   Inspired by listeners who tell us that this show makes them too hungry, we take you over the far deep end and tell some of our favorite stories of our most enlightening meals. From cheese in Marseilles to lengue tacos in California, these are some of the best things we've ever had.
-soundcloud: episode-31-the-best-thing-we
+soundcloud: 226216752
 ---
 Inspired by listeners who tell us that this show makes them too hungry, we take you over the far deep end and tell some of our favorite stories of our most enlightening meals. From cheese in Marsilles to Lengua Tacos in California, these are some of the best things we've ever had.
 

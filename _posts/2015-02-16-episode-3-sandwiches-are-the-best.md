@@ -15,7 +15,7 @@ ratings:
 link: http://d5e3yh7f757go.cloudfront.net/eps/brt-003-160.mp3
 summary: |
   We consulted with each other, our spiritual leaders, our therapists, our significant others, and a host of other clerics and determined one thing: Sandwiches are The BEST. We talked about our favorite sandwiches from NYC, our home made opuses, and generally what makes a sandwich great. You might not want to listen to this without a sandwich in hand.
-soundcloud: episode-3-sandwiches-are-the
+soundcloud: 226213262
 ---
 We consulted with each other, our spiritual leaders, our therapists, our significant others, and a host of other clerics and determined one thing: Sandwiches are The BEST. We talked about our favorite sandwiches from NYC, our home made opuses, and generally what makes a sandwich great. You might not want to listen to this without a sandwich in hand.
 

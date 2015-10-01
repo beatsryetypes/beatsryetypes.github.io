@@ -15,7 +15,7 @@ ratings:
 link: http://d5e3yh7f757go.cloudfront.net/eps/brt-004-160.mp3
 summary: |
   T.R.E.A.M. Tools Rule Everything Around Us, DOLLA DOLLA BILL Y'ALL. We discuss the kitchen tools we love most, the programming tools that inspire us, and the conversations and thoughts around tools that just drive us nuts.
-soundcloud: episode-4-tools
+soundcloud: 226213339
 ---
 T.R.E.A.M. Tools Rule Everything Around Us, DOLLA DOLLA BILL Y'ALL. We discuss the kitchen tools we love most, the programming tools that inspire us, and the conversations and thoughts around tools that just drive us nuts.
 

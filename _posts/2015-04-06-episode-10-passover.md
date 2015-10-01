@@ -15,7 +15,7 @@ ratings:
 link: http://d5e3yh7f757go.cloudfront.net/eps/brt-010-160.mp3
 summary: |
   Passover is a time of year where we get together with our families, eat a ton of stale crackers, and generally stuff ourselves to the utter brink. We relive some of our fondest passover memories and wax poetic about the history of future of Jewish Food and the Deli.
-soundcloud: episode-10-passover
+soundcloud: 226214195
 ---
 Passover is a time of year where we get together with our families, eat a ton of stale crackers, and generally stuff ourselves to the utter brink. We relive some of our fondest passover memories and wax poetic about the history of future of Jewish Food and the Deli.
 

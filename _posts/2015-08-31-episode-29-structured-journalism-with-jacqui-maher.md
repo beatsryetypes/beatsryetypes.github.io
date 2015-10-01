@@ -16,7 +16,7 @@ guest: true
 link: http://d5e3yh7f757go.cloudfront.net/eps/brt-029-160.mp3
 summary: |
   We catch up with our old friend Jacqui Maher, formerly of New York City and currently of London (yes, in England!). Jacui joins us to discuss leaving The City, the operator/creator divide, and the cutting edge of digital journalism. We ask how computers can help us deepen connections to complex news, learn about Structured Journalism, and hear Jacqui's philosophy of technology and storytelling.
-soundcloud: episode-29-structured
+soundcloud: 226216385
 ---
 We catch up with our old friend Jacqui Maher, formerly of New York City and currently of London (yes, in England!). Jacui joins us to discuss leaving The City, the operator/creator divide, and the cutting edge of digital journalism. We ask how computers can help us deepen connections to complex news, learn about Structured Journalism, and hear Jacqui's philosophy of technology and storytelling.
 

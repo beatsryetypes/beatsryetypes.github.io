@@ -16,7 +16,7 @@ ratings:
 link: http://d5e3yh7f757go.cloudfront.net/eps/brt-028-160.mp3
 summary: |
   After a little hiatus we catch up with good friend and other Aaron, Aaron Patterson. We talk about Aaron's full time work on in Open Source (Ruby and Rails), making salami, how his cats are great ice-breakers, and how he applies the punk ethos to every day life.
-soundcloud: episode-28-stickin-it-to-the
+soundcloud: 226216208
 ---
 After a little hiatus we catch up with good friend and other Aaron, Aaron Patterson. We talk about Aaron's full time work on in Open Source (Ruby and Rails), making salami, how his cats are great ice-breakers, and how he applies the punk ethos to every day life.
 

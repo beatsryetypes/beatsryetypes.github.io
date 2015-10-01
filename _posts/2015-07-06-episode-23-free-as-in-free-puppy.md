@@ -15,7 +15,7 @@ ratings:
 link: http://d5e3yh7f757go.cloudfront.net/eps/brt-023-160.mp3
 summary: |
   As we celebrate the FREEDOM of AMERICA, we discuss the ideas how our culture values free things including Art, Music, and Software. We know that we need codes of conduct, but what does that mean for our communities? What are we willing to sell and what has no right to be sold?
-soundcloud: episode-23-free-as-in-free
+soundcloud: 226215451
 ---
 As we celebrate the FREEDOM of AMERICA, we discuss the ideas how our culture values free things including Art, Music, and Software. We know that we need codes of conduct, but what does that mean for our communities? What are we willing to sell and what has no right to be sold?
 

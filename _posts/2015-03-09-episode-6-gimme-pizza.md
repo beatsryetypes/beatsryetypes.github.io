@@ -15,7 +15,7 @@ ratings:
 link: http://d5e3yh7f757go.cloudfront.net/eps/brt-006-160.mp3
 summary: |
   When it comes to our obsessions, nothing comes closer to reaching our inner souls then the humble Pizza Pie. We talk about our pizza ideals, some of our pizza at home rules, and generally why this simple food is so central to our lives.
-soundcloud: episode-6-gimme-pizza
+soundcloud: 226213524
 ---
 When it comes to our obsessions, nothing comes closer to reaching our inner souls then the humble Pizza Pie. We talk about our pizza ideals, some of our pizza at home rules, and generally why this simple food is so central to our lives.
 

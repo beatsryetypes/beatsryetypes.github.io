@@ -15,7 +15,7 @@ ratings:
 link: http://d5e3yh7f757go.cloudfront.net/eps/brt-020-160.mp3
 summary: |
   A very special episode: We sat down IN PERSON for the first time as part of the podcast and talked about a variety of things on our minds. AQ accidentally did not hit record on the first try, but we ended up taking a slightly different track anyway. We talk about overturning dogmas and preconceptions about the food we like and cook, and generally the things we believe to be true.
-soundcloud: episode-20-because-were-in-the
+soundcloud: 226215239
 ---
 A very special episode: We sat down IN PERSON for the first time as part of the podcast and talked about a variety of things on our minds. AQ accidentally did not hit record on the first try, but we ended up taking a slightly different track anyway. We talk about overturning dogmas and preconceptions about the food we like and cook, and generally the things we believe to be true.
 

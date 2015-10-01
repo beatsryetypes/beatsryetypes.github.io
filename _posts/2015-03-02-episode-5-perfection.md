@@ -15,7 +15,7 @@ ratings:
 link: http://d5e3yh7f757go.cloudfront.net/eps/brt-005-160.mp3
 summary: |
   What is perfection? How do you go about attaining it? Can you buy it on Amazon? Why do chefs and programmers alike get so obsessed about achieving something so clearly out of reach? Two clearly perfect people talk about the quest, peeling carrots, making soup, and banging your head on keyboards.
-soundcloud: episode-5-perfection
+soundcloud: 226213429
 ---
 What is perfection? How do you go about attaining it? Can you buy it on Amazon? Why do chefs and programmers alike get so obsessed about achieving something so clearly out of reach? Two clearly perfect people talk about the quest, peeling carrots, making soup, and banging your head on keyboards.
 
