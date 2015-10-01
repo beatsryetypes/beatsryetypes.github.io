@@ -1,21 +1,22 @@
 ---
 layout: post
-title:  "Episode 16: Fatherhood with Andrew Gerrand"
-date:   2015-05-18 08:45
+title: 'Episode 16: Fatherhood with Andrew Gerrand'
+date: 2015-05-18 08:45
 categories: episodes
 length: 48048065
-duration: "40:02"
+duration: '40:02'
 guest: true
-tag_list: >
+tag_list: |
   "Andrew Gerrand" Go Scratch Basic "Khan Academy" "Rob Pike" pwned learning fatherhood family
 ratings:
-  - giggle: 9
-  - music: 7
-  - computology: 9
-  - food: 1
+- giggle: 9
+- music: 7
+- computology: 9
+- food: 1
 link: http://d5e3yh7f757go.cloudfront.net/eps/brt-016-160.mp3
-summary: >
+summary: |
   As you can tell by our terrible senses of humour, we're dads. Since we spend a lot of time thinking about and caring for our sons and daughters, we enlisted the expertise of one of our good friends and "Old Dad", Andrew Gerrand ([@enneff](https://twitter.com/enneff)) to talk to us about fatherhood. In this case we get to touch on fatherhood as it relates not only to our actual kids, but also as the stewardship of a major open-source project (Google's Go language #golang).
+soundcloud: episode-16-fatherhood-with
 ---
 As you can tell by our terrible senses of humour, we're dads. Since we spend a lot of time thinking about and caring for our sons and daughters, we enlisted the expertise of one of our good friends and "Old Dad", Andrew Gerrand ([@enneff](https://twitter.com/enneff)) to talk to us about fatherhood. In this case we get to touch on fatherhood as it relates not only to our actual kids, but also as the stewardship of a major open-source project (Google's Go language #golang).
 

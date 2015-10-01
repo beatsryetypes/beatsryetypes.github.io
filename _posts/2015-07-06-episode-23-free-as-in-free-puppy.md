@@ -1,20 +1,21 @@
 ---
 layout: post
-title:  "Episode 23: Free as in Free Puppy"
-date:   2015-07-06 08:45
+title: 'Episode 23: Free as in Free Puppy'
+date: 2015-07-06 08:45
 categories: episodes
 length: 31418368
-duration: "26:07"
-tag_list: >
+duration: '26:07'
+tag_list: |
   "Open Source" capitalism exploitation freedom America software "Codes of Conduct" community
 ratings:
-  - giggle: 4
-  - music: 8
-  - computology: 8
-  - food: 1
+- giggle: 4
+- music: 8
+- computology: 8
+- food: 1
 link: http://d5e3yh7f757go.cloudfront.net/eps/brt-023-160.mp3
-summary: >
+summary: |
   As we celebrate the FREEDOM of AMERICA, we discuss the ideas how our culture values free things including Art, Music, and Software. We know that we need codes of conduct, but what does that mean for our communities? What are we willing to sell and what has no right to be sold?
+soundcloud: episode-23-free-as-in-free
 ---
 As we celebrate the FREEDOM of AMERICA, we discuss the ideas how our culture values free things including Art, Music, and Software. We know that we need codes of conduct, but what does that mean for our communities? What are we willing to sell and what has no right to be sold?
 

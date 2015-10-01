@@ -1,20 +1,21 @@
 ---
 layout: post
-title:  "Episode 19: Talk Talk Talk"
-date:   2015-06-08 08:45
+title: 'Episode 19: Talk Talk Talk'
+date: 2015-06-08 08:45
 categories: episodes
 length: 29857792
-duration: "24:49"
-tag_list: >
+duration: '24:49'
+tag_list: |
   computology Idris compilers Ruby "fear of cats" speaking conferences community
 ratings:
-  - giggle: 7
-  - music: 1
-  - computology: 10
-  - food: 1
+- giggle: 7
+- music: 1
+- computology: 10
+- food: 1
 link: http://d5e3yh7f757go.cloudfront.net/eps/brt-019-160.mp3
-summary: >
- As we prepare for some upcoming speaking engagements, we discuss our different philosophies around giving talks at conferences and also give some tips to aspiring speakers in the computology community.
+summary: |
+  As we prepare for some upcoming speaking engagements, we discuss our different philosophies around giving talks at conferences and also give some tips to aspiring speakers in the computology community.
+soundcloud: episode-19-talk-talk-talk
 ---
 As we prepare for some upcoming speaking engagements, we discuss our different philosophies around giving talks at conferences and also give some tips to aspiring speakers in the computology community.
 

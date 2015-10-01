@@ -1,20 +1,21 @@
 ---
 layout: post
-title:  "Episode 6: GIMME PIZZA"
-date:   2015-03-09 09:00
+title: 'Episode 6: GIMME PIZZA'
+date: 2015-03-09 09:00
 categories: episodes
 length: 39129088
-duration: "32:33"
-tag_list: >
+duration: '32:33'
+tag_list: |
   pizza baking "Di Fara" "L&B Spumoni Gardens" Pizzaolo "pizza at home"
 ratings:
-  - giggle: 7
-  - music: 1
-  - computology: 1
-  - food: 10
+- giggle: 7
+- music: 1
+- computology: 1
+- food: 10
 link: http://d5e3yh7f757go.cloudfront.net/eps/brt-006-160.mp3
-summary: >
+summary: |
   When it comes to our obsessions, nothing comes closer to reaching our inner souls then the humble Pizza Pie. We talk about our pizza ideals, some of our pizza at home rules, and generally why this simple food is so central to our lives.
+soundcloud: episode-6-gimme-pizza
 ---
 When it comes to our obsessions, nothing comes closer to reaching our inner souls then the humble Pizza Pie. We talk about our pizza ideals, some of our pizza at home rules, and generally why this simple food is so central to our lives.
 

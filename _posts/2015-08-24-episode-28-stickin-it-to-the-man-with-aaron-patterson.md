@@ -1,21 +1,22 @@
 ---
 layout: post
-title:  "Episode 28: Stickin' it to The Man with Aaron Patterson"
-date:   2015-08-24 08:15
+title: 'Episode 28: Stickin'' it to The Man with Aaron Patterson'
+date: 2015-08-24 08:15
 categories: episodes
 length: 33167360
-duration: "27:35"
+duration: '27:35'
 guest: true
-tag_list: >
+tag_list: |
   "Open Source" Ruby Rails salami cats "Aaron Patterson" punk "The Man"
 ratings:
-  - giggle: 9
-  - music: 3
-  - computology: 10
-  - food: 5
+- giggle: 9
+- music: 3
+- computology: 10
+- food: 5
 link: http://d5e3yh7f757go.cloudfront.net/eps/brt-028-160.mp3
-summary: >
+summary: |
   After a little hiatus we catch up with good friend and other Aaron, Aaron Patterson. We talk about Aaron's full time work on in Open Source (Ruby and Rails), making salami, how his cats are great ice-breakers, and how he applies the punk ethos to every day life.
+soundcloud: episode-28-stickin-it-to-the
 ---
 After a little hiatus we catch up with good friend and other Aaron, Aaron Patterson. We talk about Aaron's full time work on in Open Source (Ruby and Rails), making salami, how his cats are great ice-breakers, and how he applies the punk ethos to every day life.
 

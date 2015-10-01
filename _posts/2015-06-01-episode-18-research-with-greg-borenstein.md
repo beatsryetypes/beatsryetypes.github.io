@@ -1,21 +1,22 @@
 ---
 layout: post
-title:  "Episode 18: Research with Greg Borenstein"
-date:   2015-06-01 08:45
+title: 'Episode 18: Research with Greg Borenstein'
+date: 2015-06-01 08:45
 categories: episodes
 length: 49248256
-duration: "40:59"
+duration: '40:59'
 guest: true
-tag_list: >
+tag_list: |
   "Greg Borenstein" MIT research reading mastery learning "Golan Levin" "Ferran Adria" "SIGGRAPH" "deep learning"
 ratings:
-  - giggle: 7
-  - music: 3
-  - computology: 10
-  - food: 8
+- giggle: 7
+- music: 3
+- computology: 10
+- food: 8
 link: http://d5e3yh7f757go.cloudfront.net/eps/brt-018-160.mp3
-summary: >
- What is the role of research in computology, food, and music? We get to talk to our friend and scholar, [Greg Borenstein](https://twitter.com/atduskgreg), who's just finished working on finishing his thesis at the MIT Media Lab. We talk about the intersection of art and computers, learning as a curve, and salad dressing.
+summary: |
+  What is the role of research in computology, food, and music? We get to talk to our friend and scholar, [Greg Borenstein](https://twitter.com/atduskgreg), who's just finished working on finishing his thesis at the MIT Media Lab. We talk about the intersection of art and computers, learning as a curve, and salad dressing.
+soundcloud: episode-18-research-with-greg
 ---
 What is the role of research in computology, food, and music? We get to talk to our friend and scholar, [Greg Borenstein](https://twitter.com/atduskgreg), who's just finished working on finishing his thesis at the MIT Media Lab. We talk about the intersection of art and computers, learning as a curve, and salad dressing.
 

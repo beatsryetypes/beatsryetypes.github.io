@@ -1,20 +1,21 @@
 ---
 layout: post
-title:  "Episode 22: Polyglots"
-date:   2015-06-22 08:45
+title: 'Episode 22: Polyglots'
+date: 2015-06-22 08:45
 categories: episodes
 length: 28631040
-duration: "23:48"
-tag_list: >
+duration: '23:48'
+tag_list: |
   Jazz polyglots JavaScript "electric jugs" psych dogma
 ratings:
-  - giggle: 6
-  - music: 6
-  - computology: 8
-  - food: 1
+- giggle: 6
+- music: 6
+- computology: 8
+- food: 1
 link: http://d5e3yh7f757go.cloudfront.net/eps/brt-022-160.mp3
-summary: >
+summary: |
   We've said before that we define ourselves by our tastes, but how can that be when our tastes are constantly changing? What does it mean to be a polyglot and what inspires us to make the effort to step outside our respective comfort zones? We talk about the good ol' days of JavaScript, MRB's School of Jazz, and playing the Electric Jug.
+soundcloud: episode-22-polyglots
 ---
 We've said before that we define ourselves by our tastes, but how can that be when our tastes are constantly changing? What does it mean to be a polyglot and what inspires us to make the effort to step outside our respective comfort zones? We talk about the good ol' days of JavaScript, MRB's School of Jazz, and playing the Electric Jug.
 

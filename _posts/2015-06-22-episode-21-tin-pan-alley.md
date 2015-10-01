@@ -1,20 +1,21 @@
 ---
 layout: post
-title:  "Episode 21: Tin-pan Alley"
-date:   2015-06-22 08:45
+title: 'Episode 21: Tin-pan Alley'
+date: 2015-06-22 08:45
 categories: episodes
 length: 43032576
-duration: "35:48"
-tag_list: >
+duration: '35:48'
+tag_list: |
   "Neil Diamond" "The Band" transpiling GoRuCo "conferences"
 ratings:
-  - giggle: 7
-  - music: 9
-  - computology: 9
-  - food: 1
+- giggle: 7
+- music: 9
+- computology: 9
+- food: 1
 link: http://d5e3yh7f757go.cloudfront.net/eps/brt-021-160.mp3
-summary: >
+summary: |
   Once again, we got to sit side-by-side as we were both attending GoRuCo in NYC. We talk about The Band, the favorite talks we've seen recently, transpiling, and some of the awesome conferences coming up in the fall.
+soundcloud: episode-21-tin-pan-alley
 ---
 Once again, we got to sit side-by-side as we were both attending GoRuCo in NYC. We talk about The Band, the favorite talks we've seen recently, transpiling, and some of the awesome conferences coming up in the fall.
 
