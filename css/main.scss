@@ -193,6 +193,15 @@ h1, h2 {
     font-color: #CCC;
   }
 }
+.tiny-post {
+  h2 {
+    font-size: 1.2em;
+  }
+  .links {
+    border-top: none;
+    font-size: 90%;
+  }
+}
 
 body.pizza {
   background: url(/images/pizzas.jpg) repeat;
