@@ -94,7 +94,7 @@ def migrate_to_soundcloud(post_path)
   post_data = YAML.load(frontmatter)
   ep_num = post_path.match(/episode-(\d+)/)[1].to_i
   episode = Episode.new(ep_num: ep_num)
-  permalink = upload_to_soundclound(
+  id = upload_to_soundclound(
     mp3_path: episode.mp3_path,
     title: post_data['title'],
     description: post_data['summary'],
@@ -102,7 +102,7 @@ def migrate_to_soundcloud(post_path)
     release_time: Time.parse(post_data['date']),
     release: ep_num
   )
-  post_data['soundcloud'] = permalink
+  post_data['soundcloud'] = id
   File.open(post_path, 'w') {|f| 
     f << YAML.dump(post_data)
     f << "---"
@@ -143,6 +143,6 @@ def upload_to_soundclound(mp3_path: "", title: "", description: "", tag_list: ""
   track = client.post('/tracks', :track => track_params)
   # print new tracks link
   puts "Uploaded to #{track.permalink_url}"
-  track.permalink
+  track.id
 end
 
