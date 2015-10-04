@@ -176,13 +176,11 @@ h1, h2 {
   }
 }
 
-.home {
-  h3 {
+  h3.divider {
     font-weight: bold;
     font-style: italic;
     border-bottom: 1px solid #E5E5E5;
   }
-}
 .post-content {
   .links {
     border-top: 1px solid #E5E5E5;

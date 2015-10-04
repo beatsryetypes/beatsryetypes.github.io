@@ -2,14 +2,19 @@
 layout: default
 ---
 <div class="post">
+<h3 class="divider">Episodes</h3>
   <header class="post-header">
     <h1 class="post-title">{{ page.title }}</h1>
-    <p class="post-meta">{{ page.date | date: "%b %-d, %Y" }}{% if page.author %} • {{ page.author }}{% endif %}{% if page.meta %} • {{ page.meta }}{% endif %}</p>
   </header>
 
   <article class="post-content">
     {% include soundcloud.html trackid=page.soundcloud %}
-    <p><strong><a href="{{ page.link }}"> Download the episode (MP3)</a></strong></p>
     {{ content }}
   </article>
+  <p class="links"><a href="{{ page.link }}"><strong>Download the episode (MP3)</strong></a> | <span class="post-date">{{ page.date | date: "%b %-d, %Y" }}</span></p>
+<h3 class="divider">More Episodes</h3>
+{% for post in site.posts | sort rand limit: 3 %}
+{% include tiny_post.html %}
+{% endfor %}
+<h3><a href="/archive.html">View The Full Archive</a></h3>
 </div>

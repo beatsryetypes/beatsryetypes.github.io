@@ -4,11 +4,12 @@ layout: default
 
 <div class="home">
   {% assign post = site.posts.first %}
-  <h3>This Week's Episode</h3>
+  <h3 class="divider">This Week's Episode</h3>
   {% include short_post.html %}
-  <h3>More Episodes</h3>
+  <h3 class="divider">More Episodes</h3>
   {% for post in site.posts offset: 1 limit: 5 %}
   {% include tiny_post.html %}
   {% endfor %}
+  <h3><a href="/archive.html">View The Full Archive</a></h3>
 </div>
 
