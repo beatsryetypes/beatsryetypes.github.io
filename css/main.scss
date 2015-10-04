@@ -81,12 +81,30 @@ $brand-color: darken($red, 20%);
 
 
 .site-footer {
-  background: $purple;
+  background: $red;
+  text-align: center;
+  @extend %clearfix;
+  ul {
+    list-style: none;
+    margin: 10px;
+    text-align: center;
+    width: 100%;
+    li {
+      display: block;
+      float: left;
+      padding: 0px 10px;
+      a {
+        color: #FFF;
+      }
+    }
+  }
 }
 
+
 .copy {
-  margin: 20px;
-  text-align:center;
+  clear: both;
+  margin: 10px;
+  text-align:left;
   color: white;
   font-size: 10px;
 }
@@ -155,6 +173,24 @@ h1, h2 {
     border: none;
     display: inline;
     margin: 10px 0px;
+  }
+}
+
+.home {
+  h3 {
+    font-weight: bold;
+    font-style: italic;
+    border-bottom: 1px solid #E5E5E5;
+  }
+}
+.post-content {
+  .links {
+    border-top: 1px solid #E5E5E5;
+    border-bottom: 1px solid #E5E5E5;
+    padding: 5px 0px;
+  }
+  .post-date {
+    font-color: #CCC;
   }
 }
 

@@ -8,7 +8,7 @@ layout: default
   </header>
 
   <article class="post-content">
-    <audio src="{{ page.link }}" controls></audio>
+    {% include soundcloud.html trackid=page.soundcloud %}
     <p><strong><a href="{{ page.link }}"> Download the episode (MP3)</a></strong></p>
     {{ content }}
   </article>

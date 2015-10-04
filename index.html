@@ -3,30 +3,7 @@ layout: default
 ---
 
 <div class="home">
-  <ul class="post-list">
-    {% for post in paginator.posts %}
-      <li>
-        <h2>
-          <a class="post-link" href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a>
-        </h2>
-        <span class="post-meta">{{ post.date | date: "%b %-d, %Y" }}</span>
-        <p class="post-content">
-          {% include soundcloud.html trackid=post.soundcloud %}
-          {{ post.content | split: '<!-- more -->' | first }}
-          <p><strong><a href="{{ post.link }}"> Download the episode (MP3)</a></strong></p>
-          <p><a href="{{ post.url | prepend: site.baseurl }}">&raquo; Read More</a></p>
-        </p>
-      </li>
-    {% endfor %}
-  </ul>
-    <!-- Pagination links -->
-<div class="pagination">
-  {% if paginator.previous_page %}
-    <a href="{{ paginator.previous_page_path }}" class="previous">Previous</a>
-  {% endif %}
-  <span class="page_number ">Page: {{ paginator.page }} of {{ paginator.total_pages }}</span>
-  {% if paginator.next_page %}
-    <a href="{{ paginator.next_page_path }}" class="next">Next</a>
-  {% endif %}
-</div>
+  {% assign post = site.posts.first %}
+  <h3>Latest Episode</h3>
+  {% include short_post.html %}
 </div>
