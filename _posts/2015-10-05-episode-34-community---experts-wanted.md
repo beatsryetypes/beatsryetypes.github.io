@@ -16,7 +16,7 @@ guest: false
 link: http://d5e3yh7f757go.cloudfront.net/eps/brt-034-160.mp3
 summary: |
   As MRB returned from Strangeloop 2015 we talked about some of the more interesting aspects of the conference. Specifically it raised questions for both of us about what makes a community and what is the work in building one. We had a lot of questions but not many answers so we're looking for experts to join us in the future and point us in the right direction.
-soundcloud: 226216990
+soundcloud: 226990594
 ---
 As MRB returned from Strangeloop 2015 we talked about some of the more interesting aspects of the conference. Specifically it raised questions for both of us about what makes a community and what is the work in building one. We had a lot of questions but not many answers so we're looking for experts to join us in the future and point us in the right direction.
 

@@ -180,6 +180,13 @@
   p {
     padding: 5px 0px 0px 0px;
   }
+  @include media-query($on-palm) {
+    width: 100%;
+    left: 0;
+    marging: 20px 0px;
+    border-top: 1px solid #E5E5E5;
+    position: relative;
+  }
 }
 
 .page-heading {
