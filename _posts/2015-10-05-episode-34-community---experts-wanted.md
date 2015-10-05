@@ -31,7 +31,7 @@ As MRB returned from Strangeloop 2015 we talked about some of the more interesti
 * [David Nolen](http://swannodette.github.io/)
 * [MRB + David's Talk, "A History of Programming Languages for Two Voices"](https://www.youtube.com/watch?v=J3C79CDqeW4)
 * [Alex Miller](https://twitter.com/puredanger)
-* [Idalin Bobe](http://twitter.com/abbybobbe)
+* [Idalin Bobe](http://twitter.com/abbybobe)
 * ["From Protesting to Programming: Becoming a Tech Activist" by Abby Bobé](https://www.youtube.com/watch?v=gy82S8tjJX8)
 * ["Wouldn’t Censorship Be Exciting" by Alex Payne](https://al3x.net/2015/06/04/wouldn't-censorship-be-exciting.html)
 * [Catskills Conf](http://www.catskillsconf.com/)
