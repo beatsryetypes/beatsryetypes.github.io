@@ -164,28 +164,36 @@
 .content {
   position: relative;
   min-height: 1000px;
+  @extend %clearfix;
+
+}
+.main {
+    width: 65%;
+    float:left;
+    @include media-query($on-palm) {
+      width: 100%;
+      margin: 20px 0px;
+      float: none;
+    }
 }
 .page-content {
     padding: $spacing-unit;
-    max-width: $content-width;
     border-right: 1px solid #E5E5E5
 }
 
 .sidebar {
-  width: $sidebar-width;
-  position: absolute;
-  top: 10px;
-  left: $content-width + ($spacing-unit * 2);
+  min-width: 100px;
+  width: 28%;
+  float: left;
   padding-left: 20px;
   p {
     padding: 5px 0px 0px 0px;
   }
   @include media-query($on-palm) {
     width: 100%;
-    left: 0;
-    marging: 20px 0px;
+    float: none;
+    margin: 20px 0px;
     border-top: 1px solid #E5E5E5;
-    position: relative;
   }
 }
 
