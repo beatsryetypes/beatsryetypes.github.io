@@ -16,7 +16,7 @@ guest: true
 link: http://d5e3yh7f757go.cloudfront.net/eps/brt-035-160.mp3
 summary: |
   We had an awesome time talking with technologist and musician Stephanie Morillo about her love of music, getting into tech, and how we define ourselves by our passions. Come for the tunes, stay for the banh mi.
-soundcloud: 226990594
+soundcloud: 228048234
 ---
 We had an awesome time talking with technologist and musician Stephanie Morillo about her love of music, getting into tech, and how we define ourselves by our passions. Come for the tunes, stay for the banh mi.
 
