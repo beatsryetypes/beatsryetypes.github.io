@@ -24,7 +24,7 @@ We were very lucky to steal an hour from our very busy and very inspiring friend
 
 ### Links, etc
 
-* <strong>Music</strong>: Death Grips "I Break Mirros With My Face in The United States", Chosen by Alex. [Spotify](https://open.spotify.com/track/4hiTbBpSeWGkkBC7YlTY9w)
+* <strong>Music</strong>: Death Grips "I Break Mirrors With My Face in The United States", Chosen by Alex. [Spotify](https://open.spotify.com/track/4hiTbBpSeWGkkBC7YlTY9w)
 * Our Special Guest: [Alex Payne aka al3x](https://twitter.com/al3x)
 * alex article about vegan in france
 * [Eastside Burger, Paris](http://www.eastsideburgers.fr/en/)
