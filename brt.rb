@@ -137,7 +137,7 @@ def upload_to_soundclound(mp3_path: "", title: "", description: "", tag_list: ""
     :downloadable => true,
     :commentable => true,
     :license => "cc-by",
-    :sharing => "public"
+    :sharing => "private"
   }
   puts track_params
   track = client.post('/tracks', :track => track_params)
