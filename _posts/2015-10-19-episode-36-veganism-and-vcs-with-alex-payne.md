@@ -27,14 +27,13 @@ We were very lucky to steal an hour from our very busy and very inspiring friend
 * <strong>Music</strong>: Death Grips "I Break Mirros With My Face in The United States", Chosen by Alex. [Spotify](https://open.spotify.com/track/4hiTbBpSeWGkkBC7YlTY9w)
 * Our Special Guest: [Alex Payne aka al3x](https://twitter.com/al3x)
 * alex article about vegan in france
-eastside burger paris
-arpeggio live
-murikami running new yorker article
-the stand ford inn medoncino
-madaddam
-portland ecotrust food hub
-hudson valley farm hub
-alex's blog
-Alex talked at paperless post
-ken perlin at paperless post
+* [Eastside Burger, Paris](http://www.eastsideburgers.fr/en/)
+* [Arpege Live](https://twitter.com/arpegelive)
+* [Murikami Running New Yorker article](http://www.newyorker.com/magazine/2008/06/09/the-running-novelist)
+* [The Stanford Inn, Mendocino](http://www.stanfordinn.com/)
+* [Marget Atwood, The Madaddam Series](http://amzn.to/1GOGr0M)
+* [Portland Ecotrust](http://www.ecotrust.org/)
+* [Hudson Valley Farm Hub](http://www.localeconomiesproject.org/farm-hub-hosts-gatherings-for-farmers/)
+* [Al3x's blog](https://al3x.net/2013/05/23/letter-to-a-young-programmer.html)
+* [Ken Perlin at Paperless Post Tech Talks](http://dev.paperlesspost.com/2014/06/13/paperless-post-tech-talks-ken-perlin/)
 
