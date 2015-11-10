@@ -16,7 +16,7 @@ guest: true
 link: http://d5e3yh7f757go.cloudfront.net/eps/brt-038-160.mp3
 summary: |
   We're lucky to call awesome people who live across the ocean our friends. We especially love Mathias Meyer, CEO of Travis CI, who helped us score a hat trick of topics this episode. We talk about testing headphones, butchers in Berlin, finding balance as a manager, and how Europe is so different from the United States.
-soundcloud: 231153679
+soundcloud: 232384450
 ---
 We're lucky to call awesome people who live across the ocean our friends. We especially love Mathias Meyer, CEO of Travis CI, who helped us score a hat trick of topics this episode. We talk about testing headphones, butchers in Berlin, finding balance as a manager, and how Europe is so different from the United States.
 <!-- more -->
