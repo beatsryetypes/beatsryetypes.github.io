@@ -15,21 +15,19 @@ ratings:
 guest: true
 link: http://d5e3yh7f757go.cloudfront.net/eps/brt-038-160.mp3
 summary: |
-  We're lucky to call awesome people who live across the ocean our friends. We especially love Mathias Meyer, CEO of Travis CI, who helped us score a hat trick of topics this episode. We talk about testing headphones, butchers in berlin, finding balance as a manager, and why europe is so cool.
+  We're lucky to call awesome people who live across the ocean our friends. We especially love Mathias Meyer, CEO of Travis CI, who helped us score a hat trick of topics this episode. We talk about testing headphones, butchers in Berlin, finding balance as a manager, and how Europe is so different from the United States.
 soundcloud: 231153679
 ---
-We're lucky to call awesome people who live across the ocean our friends. We especially love Mathias Meyer, CEO of Travis CI, who helped us score a hat trick of topics this episode. We talk about testing headphones, butchers in berlin, finding balance as a manager, and why europe is so cool.
+We're lucky to call awesome people who live across the ocean our friends. We especially love Mathias Meyer, CEO of Travis CI, who helped us score a hat trick of topics this episode. We talk about testing headphones, butchers in Berlin, finding balance as a manager, and how Europe is so different from the United States.
 <!-- more -->
 
 ### Links, etc
 
 * <strong>Music</strong>: Animals as Leaders "Cafo", Chosen by Mathias. [Spotify](https://open.spotify.com/track/1ZfnGTUnha3QHj3KFmub0W)
-* tay tay bad blood
-toby street
-animals as leaders video
-michael pollan omnivores dilemma
-mathias's blog
-slack post
-camille fournier episode
-"this is why people leave your company"
-
+* [Taylor Swift 'Bad Blood' Video](https://www.youtube.com/watch?v=QcIy9NiNbmo)
+* [Toby Sterrett @takeo](https://twitter.com/takeo)
+* [Animals as Leaders "CAFO" Video](https://www.youtube.com/watch?v=NmfzWpp0hMc)
+* [Michael Pollan "The Omnivore's Dilemma"](http://www.amazon.com/The-Omnivores-Dilemma-Natural-History/dp/0143038583)
+* [Mathias's Blog](http://www.paperplanes.de/)
+* [Camille Fournier on BRT](http://beatsryetypes.com/episodes/2015/04/20/episode-12-consenus-with-camille-fournier.html)
+* ["This is Why People Leave Your Company"](http://firstround.com/review/This-is-Why-People-Leave-Your-Company/)
