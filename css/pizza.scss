@@ -1,0 +1,86 @@
+---
+# Only the main Sass file needs front matter (the dashes are enough)
+---
+@charset "utf-8";
+
+// Our variables
+$base-font-family: Palatino, "Times New Roman", serif;
+$base-font-size:   16px;
+$small-font-size:  $base-font-size * 0.875;
+$base-line-height: 1.5;
+
+$spacing-unit:     20px;
+
+$text-color:       #111;
+$background-color: #fff;
+
+$brand-color: #b0bf61;
+$grey-color:       #828282;
+$grey-color-light: lighten($grey-color, 40%);
+$grey-color-dark:  darken($grey-color, 25%);
+
+$content-width: 940px;
+$on-palm:          600px;
+$on-laptop:        940px;
+
+// Using media queries with like this:
+// @include media-query($on-palm) {
+//     .wrapper {
+//         padding-right: $spacing-unit / 2;
+//         padding-left: $spacing-unit / 2;
+//     }
+// }
+@mixin media-query($device) {
+  @media screen and (max-width: $device) {
+    @content;
+  }
+}
+
+@import "base";
+
+body {
+  text-align: center;
+}
+
+.main {
+  width: 940px;
+  margin: 0 auto;
+  text-align: left;
+}
+
+h1 {
+  margin: 0; 
+  padding: 0;
+  img {
+    width: 100%;
+  }
+}
+.sub {
+  @extend %clearfix;
+}
+.authors {
+  float: left;
+}
+.preorder {
+  float: right;
+}
+
+.desc {
+  margin: 10px 0px;
+}
+
+@include media-query($on-laptop) {
+  .main {
+    width: 90%;
+  }
+}
+@include media-query($on-palm) {
+  .main {
+    width: 320px;
+  }
+  .authors, .preorder {
+    float: none;
+    width: 100%;
+    text-align: left;
+  }
+}
