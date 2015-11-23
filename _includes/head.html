@@ -5,6 +5,22 @@
 
   <title>{% if page.title %}{{ page.title }}{% else %}{{ site.title }}{% endif %}</title>
   <meta name="description" content="{% if page.excerpt %}{{ page.excerpt | strip_html | strip_newlines | truncate: 160 }}{% else %}{{ site.description }}{% endif %}">
+  {% if page.title %}
+  <meta name="description" content="{% if page.excerpt %}{{ page.excerpt | strip_html | strip_newlines | truncate: 160 }}{% else %}{{ site.description }}{% endif %}">
+  <meta name="twitter:card" content="summary_large_image">
+  <meta name="twitter:site" content="@beatsryetypes">
+  <meta name="twitter:creator" content="@beatsryetypes">
+  <meta name="twitter:title" content="{{ page.title }}">
+  <meta name="twitter:description" content="{% if page.excerpt %}{{ page.excerpt | strip_html | strip_newlines | truncate: 160 }}{% else %}{{ site.description }}{% endif %}">
+  <meta name="twitter:image" content="http://beatsryetypes.com/images/brt-art-blakely-header.png">
+  <meta property="og:url"                content="http://beatsryetypes.com/{{ page.url }}" />
+  <meta property="og:type"               content="article" />
+  <meta property="og:title"              content="{{ page.title }}" />
+  <meta property="og:description"        content="{% if page.excerpt %}{{ page.excerpt | strip_html | strip_newlines | truncate: 160 }}{% else %}{{ site.description }}{% endif %}">
+  <meta property="og:image"              content="http://beatsryetypes.com/pizza/images/header-large-twitter.jpg"/>
+  <meta property="og:image" content="http://beatsryetypes.com/images/brt-art-blakely-header.png">
+  <meta property="og:audio" content="{{ page.link }}">
+  {% endif %}
 
   <link rel="stylesheet" href="{{ "/css/main.css" | prepend: site.baseurl }}">
   <link rel="canonical" href="{{ page.url | replace:'index.html','' | prepend: site.baseurl | prepend: site.url }}">
