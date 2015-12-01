@@ -16,7 +16,7 @@ guest: false
 link: http://d5e3yh7f757go.cloudfront.net/eps/brt-040-160.mp3
 summary: |
   We got together late night (or late for us) after a long Thanksgiving weekend to talk about music and our latest projects including gravy and bagels.
-soundcloud: 234359816
+soundcloud: 235516172
 ---
 We got together late night (or late for us) after a long Thanksgiving weekend to talk about music and our latest projects including gravy and bagels.
 <!-- more -->
