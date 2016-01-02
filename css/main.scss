@@ -109,6 +109,34 @@ $brand-color: darken($red, 20%);
   font-size: 10px;
 }
 
+nav {
+  border-bottom: 1px solid black;
+  @extend %clearfix;
+  ul {
+    list-style-type: none;
+    margin: 0px;
+    padding-left: 20px;
+    li {
+      padding: 10px 0px;
+      float: left;
+      a {
+        font-family: "Cooper Hewitt Heavy";
+        font-size: 18px;
+        padding: 4px 30px 10px 0px;
+      }
+    }
+  }
+}
+
+@include media-query($on-palm) {
+  nav ul li {
+    padding: 5px 0px;
+  }
+  nav ul li a {
+    font-size: 14px;    
+    padding: 4px 10px 4px 0px;
+  }
+}
 
 // posts
 h1, h2 {
@@ -202,66 +230,4 @@ h3.divider {
   }
 }
 
-body.pizza {
-  background: url(/images/pizzas.jpg) repeat;
-  text-align: center;
-  a {
-    color: #fffac6;
-    text-decoration: underline;
-  }
-  .main {
-    color: #FFF;  
-    text-align: left;
-    margin: 0px auto;
-    padding: 10px 20px;
-    width: 800px;
-    background: url(/images/main-bg.png) repeat transparent;
-  }
-  .desc {
-    float: left;
-    width: 370px;
-    padding-right: 50px;
-  }
-  .signup {
-    text-align: left;
-    font-size: 18px;
-    float: left;
-    width: 350px;
-    font-weight: bold;
-  }
-  footer {
-    clear: both;
-    width: 100%;
-  }
-  #mc_embed_signup {
-    color: #FFF;
-    text-align: left;
-    input {
-      width: 100%;
-    }
-    input[type=submit] {
-      font-weight: bold;
-      font-size: 18px;
-      width: 100%;
-      background: #b11a00;
-      padding: 4px 10px;
-      border: none;
-      margin: 10px 0px;
-    }
-  }
-}
 
-@include media-query($on-palm) {
-  body.pizza {
-    .main {
-      width: 320px;
-      margin: 0px 20px;
-    }
-    .main h1 img {
-      width: 100%;
-    }
-    .desc, .signup {
-      width: 325px;
-    }
-  }
-}
