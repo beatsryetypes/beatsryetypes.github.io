@@ -11,7 +11,9 @@ layout: default
     {% include soundcloud.html trackid=page.soundcloud %}
     {{ content }}
   </article>
-  <p class="links"><a href="{{ page.link }}"><strong>Download the episode (MP3)</strong></a> | <span class="post-date">{{ page.date | date: "%b %-d, %Y" }}</span></p>
+  <p class="links"><a href="{{ page.link }}"><strong>Download the episode (MP3)</strong></a> | <span class="post-date">{{ page.date | date: "%b %-d, %Y" }}</span> | 
+  {% include share.html %}
+  </p>
 <h3 class="divider">More Episodes</h3>
 {% for post in site.categories.episodes | sort rand limit: 3 %}
 {% include tiny_post.html %}

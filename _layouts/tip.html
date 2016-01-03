@@ -10,7 +10,10 @@ layout: default
   <article class="post-content">
     {{ content }}
   </article>
-  <p class="links"><span class="post-date">Posted {{ page.date | date: "%b %-d, %Y" }}</span></p>
+  <p class="links">
+    <span class="post-date">Posted {{ page.date | date: "%b %-d, %Y" }}</span> | 
+    {% include share.html %}
+  </p>
 <h3 class="divider">More Tips</h3>
 {% for post in site.categories.tips | sort rand limit: 3 %}
 {% include tiny_tip.html %}

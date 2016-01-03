@@ -1,10 +1,10 @@
 <div class="tiny-post">
 <h2>
-  <a class="post-link" href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a>
+  <a class="post-link" href="{{ post.url }}">{{ post.title }}</a>
 </h2>
 <div class="post-content">
   {% include soundcloud_tiny.html trackid=post.soundcloud %}
-  <p class="links"><a href="{{ post.url | prepend: site.baseurl }}">&raquo; Links & More</a> |
+  <p class="links"><a href="{{ post.url }}">&raquo; Links & More</a> |
     <a href="{{ post.link }}"> Download the episode (MP3)</a> | <span class="post-date">{{ post.date | date: "%b %-d, %Y" }}</span></p>
 </div>
 </div>
