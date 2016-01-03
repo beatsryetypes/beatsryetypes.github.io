@@ -1,11 +1,17 @@
 require './brt'
 
+desc 'Generate a new ep: rake new_ep[num, title]'
 task :new_ep, [:ep_num, :title] do |t, args|
   Episode.new(ep_num: args[:ep_num], title: args[:title]).process!
 end
 
+desc 'Upload an ep to soundcloud: rake migrate_to_soundcloud["_posts/..."]'
 task :migrate_to_soundcloud, [:post] do |t,args|
   migrate_to_soundcloud(args[:post])
+end
+
+task :new_tip, [:name, :image_path] do |t, args|
+  new_tip(args[:name], args[:image_path])
 end
 
 task :migrate_all_to_soundcloud do

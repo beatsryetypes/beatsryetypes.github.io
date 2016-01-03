@@ -211,6 +211,7 @@ h3.divider {
   border-bottom: 1px solid #E5E5E5;
 }
 .post-content {
+  @e
   .links {
     border-top: 1px solid #E5E5E5;
     border-bottom: 1px solid #E5E5E5;
@@ -221,13 +222,30 @@ h3.divider {
   }
 }
 .tiny-post {
+  @extend %clearfix;
   h2 {
     font-size: 1.2em;
+  }
+  .tiny-tip-image {
+    float: left;
+    padding-right: 10px;
+    width: 100px;
   }
   .links {
     border-top: none;
     font-size: 90%;
   }
 }
-
+.tip {
+  .tip-image {
+    width: 100%;
+    margin: 10px 0px;
+  }
+  .post-date {
+    font-style: italic;
+  }
+  .footnotes {
+    font-size: 90%;
+  }
+}
 

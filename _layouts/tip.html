@@ -1,0 +1,19 @@
+---
+layout: default
+---
+<div class="post tip">
+<h3 class="divider">Daily Tips</h3>
+  <header class="post-header">
+    <h1 class="post-title">{{ page.title }}</h1>
+  </header>
+  <img class="tip-image" src="{{ page.image }}" />
+  <article class="post-content">
+    {{ content }}
+  </article>
+  <p class="links"><span class="post-date">Posted {{ page.date | date: "%b %-d, %Y" }}</span></p>
+<h3 class="divider">More Tips</h3>
+{% for post in site.categories.tips | sort rand limit: 3 %}
+{% include tiny_tip.html %}
+{% endfor %}
+<h3><a href="/tips">All the Daily Tips</a></h3>
+</div>

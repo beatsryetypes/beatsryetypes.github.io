@@ -6,7 +6,7 @@ Bundler.require
 
 MP3_DIR = File.expand_path(File.join('~', 'Dropbox', 'beatsryetypes', 'finished mp3s'))
 S3_BUCKET = 'beatsryetypes'
-
+CLOUDFRONT_HOST = 'http://d5e3yh7f757go.cloudfront.net'
 
 class Episode
   attr_accessor :ep_num, :title
@@ -26,7 +26,7 @@ class Episode
     now = Time.now
     this_coming_monday = now + ((1 - now.wday) * 60 * 60 * 24)
     timestamp = this_coming_monday.strftime('%Y-%m-%d') 
-    most_recent = Dir['_posts/*.md'].sort.last
+    most_recent = Dir['_posts/*episode*.md'].sort.last
     new_filename = "_posts/#{timestamp}-episode-#{ep_num}-#{title.downcase.gsub(/ /, '-')}.md"
     new_data = YAML.load_file(most_recent)
     stats = File.stat(mp3_path)
@@ -34,7 +34,7 @@ class Episode
     duration = "%d:%d" % [info.length / 60, info.length % 60]
     new_data['title'] = "Episode #{ep_num}: #{title}"
     new_data['date'] = "#{timestamp} 08:15"
-    new_data['link'] = "http://d5e3yh7f757go.cloudfront.net/eps/#{mp3_filename}"
+    new_data['link'] = "#{CLOUDFRONT_HOST}/eps/#{mp3_filename}"
     new_data['length'] = stats.size
     new_data['duration'] = duration
     File.open(new_filename, 'w') {|f| 
@@ -146,3 +146,50 @@ def upload_to_soundclound(mp3_path: "", title: "", description: "", tag_list: ""
   track.id
 end
 
+def new_tip(name, image_path)
+  last_tip = Dir['_posts/*tip*.md'].sort.last
+  if last_tip
+    last_tip_num = last_tip.match(/tip-(\d+)/)[1].to_i
+  else
+    last_tip_num = 0
+  end
+  timestamp = (Time.now + 86400).strftime('%Y-%m-%d') 
+  tip_num = last_tip_num += 1
+  image_path = File.expand_path(image_path)
+  # create thumbnail 
+  thumb_filename = "thumb_#{File.basename(image_path)}"
+  thumb_path = "/tmp/#{thumb_filename}"
+  `convert #{image_path} -resize "400x400^" -gravity center -crop 400x400+0+0 +repage -quality 60 #{thumb_path}`
+  # upload image
+  image_filename = "tip-#{tip_num}-#{File.basename(image_path)}"
+  s3_path = "tips/#{image_filename}"
+  upload_to_s3(image_path, s3_path)
+  # upload thumb
+  s3_thumb_path = "tips/thumbs/#{image_filename}"
+  upload_to_s3(thumb_path, s3_thumb_path)
+  template = <<EOT
+---
+layout: tip
+title: "Tip ##{tip_num}: #{name}"
+date: #{timestamp} 10:15
+categories: tips
+image: #{CLOUDFRONT_HOST}/#{s3_path}
+thumbnail: #{CLOUDFRONT_HOST}/#{s3_thumb_path}
+---
+
+EOT
+  filename = "_posts/#{timestamp}-tip-#{tip_num}-#{name.downcase.gsub(/ /, '-')}.md"
+  File.open(filename, 'w') {|f| f << template }
+  puts "Wrote #{filename}"
+end
+
+def upload_to_s3(local_path, s3_path)
+  if !File.readable? local_path 
+    puts "Could not read file at #{local_path}"
+    exit 1
+  end
+  puts "Uploading #{local_path} to s3 #{s3_path}"
+  s3 = Aws::S3::Resource.new(region: 'us-east-1')
+  obj = s3.bucket(S3_BUCKET).object(s3_path)
+  obj.upload_file(local_path, acl:'public-read')
+end

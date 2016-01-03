@@ -1,0 +1,14 @@
+<div class="tiny-post">
+  <a href="{{ post.url | prepend: site.baseurl }}">
+  <img class="tiny-tip-image" src="{{ post.thumbnail }}" />
+</a>
+<h2>
+  <a class="post-link" href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a>
+</h2>
+<div class="post-content">
+  <p>{{ post.content | truncatewords: 25 | strip_html }}
+  <span class="links">
+  <a href="{{ post.url | prepend: site.baseurl }}">&raquo; Read More</a> |
+  <span class="post-date">{{ post.date | date: "%b %-d, %Y" }}</span></span></p>
+</div>
+</div>
