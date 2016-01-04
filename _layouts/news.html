@@ -1,0 +1,23 @@
+---
+layout: default
+---
+<div class="post news">
+<h3 class="divider">News</h3>
+  <header class="post-header">
+    <h1 class="post-title">{{ page.title }}</h1>
+  </header>
+  <article class="post-content">
+    {{ content }}
+  </article>
+  <p class="links">
+    <span class="post-date">Posted {{ page.date | date: "%b %-d, %Y" }}</span> | 
+    {% include share.html %}
+  </p>
+{% if site.categories.news | size > 2 %}
+<h3 class="divider">More News</h3>
+{% for post in site.categories.news | sort rand limit: 3 %}
+{% include tiny_news.html %}
+{% endfor %}
+<h3><a href="/tips">All the News</a></h3>
+</div>
+{% endif %}

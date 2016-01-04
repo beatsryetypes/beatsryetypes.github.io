@@ -146,6 +146,22 @@ def upload_to_soundclound(mp3_path: "", title: "", description: "", tag_list: ""
   track.id
 end
 
+def new_news(name)
+  timestamp = Time.now.strftime('%Y-%m-%d') 
+  template = <<EOT
+---
+layout: news
+title: "#{name}"
+date: #{timestamp} 10:15
+categories: news
+---
+
+EOT
+  filename = "_posts/#{timestamp}-news-#{name.downcase.gsub(/ /, '-')}.md"
+  File.open(filename, 'w') {|f| f << template }
+  puts "Wrote #{filename}"
+end
+
 def new_tip(name, image_path)
   last_tip = Dir['_posts/*tip*.md'].sort.last
   if last_tip

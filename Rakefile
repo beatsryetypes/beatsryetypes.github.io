@@ -10,8 +10,13 @@ task :migrate_to_soundcloud, [:post] do |t,args|
   migrate_to_soundcloud(args[:post])
 end
 
+desc 'Create a new tip entry: rake new_tip["tip name","photo path.jpg"]'
 task :new_tip, [:name, :image_path] do |t, args|
   new_tip(args[:name], args[:image_path])
+end
+
+task :new_news, [:name] do |t, args|
+  new_news(args[:name])
 end
 
 task :migrate_all_to_soundcloud do

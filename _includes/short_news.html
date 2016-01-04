@@ -1,0 +1,10 @@
+<h2>
+  <a class="post-link" href="{{ page.url }}">{{ page.title }}</a>
+</h2>
+<div class="post-content">
+  {{ page.content }}
+  <p class="links">
+    <span class="post-date">Posted {{ page.date | date: "%b %-d, %Y" }}</span> | 
+    {% include share.html %}
+  </p>
+</div>

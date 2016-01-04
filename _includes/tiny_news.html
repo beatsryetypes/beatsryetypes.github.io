@@ -1,0 +1,12 @@
+<div class="tiny-post">
+<h2>
+  <a class="post-link" href="{{ post.url }}">{{ post.title }}</a>
+</h2>
+<div class="post-content">
+  <p>{{ post.content | truncatewords: 25 | strip_html }}</p>
+  <span class="links">
+    <a href="{{ post.url }}">&raquo; Read More</a> |
+  <span class="post-date">{{ post.date | date: "%b %-d, %Y" }}</span></span>
+  </p>
+</div>
+</div>
