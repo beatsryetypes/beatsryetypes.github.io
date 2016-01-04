@@ -4,7 +4,7 @@ title: "Welcome to 2016: The Year of Beats, Rye & Types"
 date: 2016-01-03 10:15
 categories: news
 ---
-We're pretty proud of what we accomplished as Beats, Rye & Types in 2016. 
+We're pretty proud of what we accomplished as Beats, Rye & Types in 2015. 
 
 We [recorded 42 episodes](/podcast) (actually more like 45 but a bunch were lost forever because of stupid sound issues). 
 
