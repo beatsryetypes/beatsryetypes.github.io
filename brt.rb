@@ -209,3 +209,34 @@ def upload_to_s3(local_path, s3_path)
   obj = s3.bucket(S3_BUCKET).object(s3_path)
   obj.upload_file(local_path, acl:'public-read')
 end
+
+def buff(post_path)
+  token = ENV['BUFFER_ACCESS_TOKEN']
+  profile = 0 
+  
+  post = YAML.load_file(post_path)
+  url = url_from_post(post['category'], post_path)
+  message = "#{post['title']} #{url}"
+  puts message 
+
+  client = Buffer::Client.new(token)
+  profile_id = client.profiles[profile].id
+  post_args = {
+    text: message, 
+    media: {
+      picture: post['image'],
+      thumbnail: post['thumbnail']
+    },
+    shorten: false,
+    profile_ids: [profile_id]
+  }
+  client.create_update(body: post_args)
+  puts "Posted message."
+end
+
+def url_from_post(category, post_path)
+  post_uri = File.basename(post_path).split("-", 4).join("/").gsub(/md$/,'html')
+  "http://beatsryetypes.com#{category}/#{post_uri}"
+end
+
+

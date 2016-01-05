@@ -19,6 +19,10 @@ task :new_news, [:name] do |t, args|
   new_news(args[:name])
 end
 
+task :buff, [:post_path] do |t, args|
+  buff(args['post_path'])
+end
+
 task :migrate_all_to_soundcloud do
   Dir.glob('_posts/*.md') do |post|
     begin

@@ -6,4 +6,5 @@ gem 'redcarpet'
 gem 'aws-sdk', '~>2'
 gem 'pry'
 gem 'jekyll'
+gem 'buffer'
 
