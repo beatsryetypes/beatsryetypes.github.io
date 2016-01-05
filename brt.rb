@@ -215,7 +215,7 @@ def buff(post_path)
   profile = 0 
   
   post = YAML.load_file(post_path)
-  url = url_from_post(post['category'], post_path)
+  url = url_from_post(post['categories'], post_path)
   message = "#{post['title']} #{url}"
   puts message 
 
@@ -236,7 +236,7 @@ end
 
 def url_from_post(category, post_path)
   post_uri = File.basename(post_path).split("-", 4).join("/").gsub(/md$/,'html')
-  "http://beatsryetypes.com#{category}/#{post_uri}"
+  "http://beatsryetypes.com/#{category}/#{post_uri}"
 end
 
 
