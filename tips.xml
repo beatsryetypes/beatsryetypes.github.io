@@ -27,9 +27,9 @@ layout: null
   {% if site.author %}
     <author>
       {% if site.author.name %}
-        <name>{{ site.author.name | xml_escape }}</name>
+        <name>{{ site.author.name }}</name>
       {% else %}
-        <name>{{ site.author | xml_escape }}</name>
+        <name>{{ site.author }}</name>
       {% endif %}
       {% if site.author.email %}
         <email>{{ site.author.email | xml_escape }}</email>
@@ -42,7 +42,7 @@ layout: null
 
   {% for post in site.categories.tips limit: 10 %}
     <entry>
-      <title>{{ post.title | markdownify | strip_html | replace: '\n', ' ' | strip | xml_escape }}</title>
+      <title>{{ post.title | markdownify | strip_html | replace: '\n', ' ' | strip }}</title>
       <link href="{{ post.url | prepend: url_base }}" rel="alternate" type="text/html" title="{{ post.title | xml_escape }}" />
       <published>{{ post.date | date_to_xmlschema }}</published>
       {% if post.last_modified_at %}
