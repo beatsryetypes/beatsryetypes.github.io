@@ -25,7 +25,7 @@ class Episode
   def write_new_markdown
     now = Time.now
     this_coming_monday = now + ((1 - now.wday) * 60 * 60 * 24)
-    timestamp = this_coming_monday.strftime('%Y-%m-%d') 
+    timestamp = this_coming_monday.strftime('%Y-%m-%d')
     most_recent = Dir['_posts/*episode*.md'].sort.last
     new_filename = "_posts/#{timestamp}-episode-#{ep_num}-#{title.downcase.gsub(/ /, '-')}.md"
     new_data = YAML.load_file(most_recent)
@@ -37,8 +37,8 @@ class Episode
     new_data['link'] = "#{CLOUDFRONT_HOST}/eps/#{mp3_filename}"
     new_data['length'] = stats.size
     new_data['duration'] = duration
-    File.open(new_filename, 'w') {|f| 
-      f << YAML.dump(new_data) 
+    File.open(new_filename, 'w') {|f|
+      f << YAML.dump(new_data)
       f << <<-EOT
 ---
 <!-- more -->
@@ -103,7 +103,7 @@ def migrate_to_soundcloud(post_path)
     release: ep_num
   )
   post_data['soundcloud'] = id
-  File.open(post_path, 'w') {|f| 
+  File.open(post_path, 'w') {|f|
     f << YAML.dump(post_data)
     f << "---"
     f << post
@@ -147,7 +147,7 @@ def upload_to_soundclound(mp3_path: "", title: "", description: "", tag_list: ""
 end
 
 def new_news(name)
-  timestamp = Time.now.strftime('%Y-%m-%d') 
+  timestamp = Time.now.strftime('%Y-%m-%d')
   template = <<EOT
 ---
 layout: news
@@ -169,10 +169,10 @@ def new_tip(name, image_path)
   else
     last_tip_num = 0
   end
-  timestamp = (Time.now + 86400).strftime('%Y-%m-%d') 
+  timestamp = (Time.now + 86400).strftime('%Y-%m-%d')
   tip_num = last_tip_num += 1
   image_path = File.expand_path(image_path)
-  # create thumbnail 
+  # create thumbnail
   thumb_filename = "thumb_#{File.basename(image_path)}"
   thumb_path = "/tmp/#{thumb_filename}"
   `convert #{image_path} -resize "400x400^" -gravity center -crop 400x400+0+0 +repage -quality 60 #{thumb_path}`
@@ -200,7 +200,7 @@ EOT
 end
 
 def upload_to_s3(local_path, s3_path)
-  if !File.readable? local_path 
+  if !File.readable? local_path
     puts "Could not read file at #{local_path}"
     exit 1
   end
@@ -212,31 +212,32 @@ end
 
 def buff(post_path)
   token = ENV['BUFFER_ACCESS_TOKEN']
-  profile = 0 
-  
+  profile = 0
+
   post = YAML.load_file(post_path)
+
   url = url_from_post(post['categories'], post_path)
   message = "#{post['title']} #{url}"
-  puts message 
+  e = ["👉", "👂", "👋"].sample
+  message = "#{e} #{post['title']} #{url}"
+  puts message
 
   client = Buffer::Client.new(token)
   profile_id = client.profiles[profile].id
   post_args = {
-    text: message, 
+    text: message,
     media: {
       picture: post['image'],
-      thumbnail: post['thumbnail']
+      thumbnail: post['thumbnail'],
     },
     shorten: false,
     profile_ids: [profile_id]
   }
-  client.create_update(body: post_args)
-  puts "Posted message."
+  resp = client.create_update(body: post_args)
+  puts resp.message
 end
 
 def url_from_post(category, post_path)
   post_uri = File.basename(post_path).split("-", 4).join("/").gsub(/md$/,'html')
   "http://beatsryetypes.com/#{category}/#{post_uri}"
 end
-
-
