@@ -7,4 +7,4 @@ gem 'aws-sdk', '~>2'
 gem 'pry'
 gem 'jekyll'
 gem 'buffer'
-
+gem 'jekyll-redirect-from'
