@@ -162,14 +162,15 @@ EOT
   puts "Wrote #{filename}"
 end
 
-def new_tip(name, image_path, when = Time.now + 86400)
+def new_tip(name, image_path, posted = nil)
+  posted ||= Time.now + 86400
   last_tip = Dir['_posts/*tip*.md'].sort.last
   if last_tip
     last_tip_num = last_tip.match(/tip-(\d+)/)[1].to_i
   else
     last_tip_num = 0
   end
-  timestamp = when.strftime('%Y-%m-%d')
+  timestamp = posted.strftime('%Y-%m-%d')
   tip_num = last_tip_num += 1
   image_path = File.expand_path(image_path)
   # create thumbnail
