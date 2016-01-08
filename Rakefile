@@ -15,6 +15,10 @@ task :new_tip, [:name, :image_path] do |t, args|
   new_tip(args[:name], args[:image_path])
 end
 
+task :new_tip_today, [:name, :image_path] do |t, args|
+  new_tip(args[:name], args[:image_path], Time.now)
+end
+
 task :new_news, [:name] do |t, args|
   new_news(args[:name])
 end
