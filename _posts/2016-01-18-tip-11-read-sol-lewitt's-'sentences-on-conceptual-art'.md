@@ -3,8 +3,8 @@ layout: tip
 title: "Tip #11: Read Sol Lewitt's 'Sentences on Conceptual Art'"
 date: 2016-01-18 10:15
 categories: tips
-image: http://d5e3yh7f757go.cloudfront.net/tips/tip-11-sol.jpg
-thumbnail: http://d5e3yh7f757go.cloudfront.net/tips/thumbs/tip-11-sol.jpg
+image: http://d5e3yh7f757go.cloudfront.net/tips/tip-11-sol2.jpg
+thumbnail: http://d5e3yh7f757go.cloudfront.net/tips/thumbs/tip-11-sol2.jpg
 ---
 Beginning with
 

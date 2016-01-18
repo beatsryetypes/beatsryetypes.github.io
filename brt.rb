@@ -172,18 +172,7 @@ def new_tip(name, image_path, posted = nil)
   end
   timestamp = posted.strftime('%Y-%m-%d')
   tip_num = last_tip_num += 1
-  image_path = File.expand_path(image_path)
-  # create thumbnail
-  thumb_filename = "thumb_#{File.basename(image_path)}"
-  thumb_path = "/tmp/#{thumb_filename}"
-  `convert #{image_path} -resize "400x400^" -gravity center -crop 400x400+0+0 +repage -quality 60 #{thumb_path}`
-  # upload image
-  image_filename = "tip-#{tip_num}-#{File.basename(image_path)}"
-  s3_path = "tips/#{image_filename}"
-  upload_to_s3(image_path, s3_path)
-  # upload thumb
-  s3_thumb_path = "tips/thumbs/#{image_filename}"
-  upload_to_s3(thumb_path, s3_thumb_path)
+  s3_path, s3_thumb_path = process_tip_image(tip_num, image_path)
   template = <<EOT
 ---
 layout: tip
@@ -198,6 +187,22 @@ EOT
   filename = "_posts/#{timestamp}-tip-#{tip_num}-#{name.downcase.gsub(/ /, '-')}.md"
   File.open(filename, 'w') {|f| f << template }
   puts "Wrote #{filename}"
+end
+
+def process_tip_image(tip_num, image_path)
+  image_path = File.expand_path(image_path)
+  # create thumbnail
+  thumb_filename = "thumb_#{File.basename(image_path)}"
+  thumb_path = "/tmp/#{thumb_filename}"
+  `convert #{image_path} -resize "400x400^" -gravity center -crop 400x400+0+0 +repage -quality 60 #{thumb_path}`
+  # upload image
+  image_filename = "tip-#{tip_num}-#{File.basename(image_path)}"
+  s3_path = "tips/#{image_filename}"
+  upload_to_s3(image_path, s3_path)
+  # upload thumb
+  s3_thumb_path = "tips/thumbs/#{image_filename}"
+  upload_to_s3(thumb_path, s3_thumb_path)
+  [s3_path, s3_thumb_path]
 end
 
 def upload_to_s3(local_path, s3_path)
