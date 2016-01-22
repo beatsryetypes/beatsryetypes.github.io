@@ -1,7 +1,7 @@
 ---
 layout: tip
 title: "Tip #15: Salt your boiling water until it tastes like the ocean"
-date: 2016-01-23 10:15
+date: 2016-01-22 10:15
 categories: tips
 image: http://d5e3yh7f757go.cloudfront.net/tips/tip-15-salt.jpg
 thumbnail: http://d5e3yh7f757go.cloudfront.net/tips/thumbs/tip-15-salt.jpg
