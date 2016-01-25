@@ -16,7 +16,7 @@ guest: true
 link: http://d5e3yh7f757go.cloudfront.net/eps/brt-044-160.mp3
 summary: |
   The same systems that cause failure are the ones that create success - so why do we blame them? We talked to Dave Zweiback, about his book "Beyond Blame" and what makes positive and healthy teams.
-soundcloud: 241427534
+soundcloud: 243607561
 ---
 The same systems that cause failure are the ones that create success - so why do we blame them? We talked to Dave Zweiback, about his book "Beyond Blame" and what makes positive and healthy teams.
 
