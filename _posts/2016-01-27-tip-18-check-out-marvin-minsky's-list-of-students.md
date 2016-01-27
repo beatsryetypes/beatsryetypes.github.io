@@ -1,7 +1,7 @@
 ---
 layout: tip
 title: "Tip #18: Check out Marvin Minsky's list of students"
-date: 2016-01-28 10:15
+date: 2016-01-27 10:15
 categories: tips
 image: http://d5e3yh7f757go.cloudfront.net/tips/tip-18-minsky.jpg
 thumbnail: http://d5e3yh7f757go.cloudfront.net/tips/thumbs/tip-18-minsky.jpg
