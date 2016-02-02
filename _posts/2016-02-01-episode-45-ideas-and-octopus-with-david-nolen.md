@@ -16,7 +16,7 @@ guest: true
 link: http://d5e3yh7f757go.cloudfront.net/eps/brt-045-160.mp3
 summary: |
   We finally tracked down one of our old friends and collaborators David Nolen for a chat. David is one of the few people we can talk fluently about all 3 of our primary topics with, so we caught up about David's recent trip to Korea, ClojureScript, and experimental music and film.
-soundcloud: 243607561
+soundcloud: 245081624
 ---
 We finally tracked down one of our old friends and collaborators David Nolen for a chat. David is one of the few people we can talk fluently about all 3 of our primary topics with, so we caught up about David's recent trip to Korea, ClojureScript, and experimental music and film.
 
