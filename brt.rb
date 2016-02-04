@@ -184,7 +184,7 @@ thumbnail: #{CLOUDFRONT_HOST}/#{s3_thumb_path}
 ---
 
 EOT
-  filename = "_posts/#{timestamp}-tip-#{tip_num}-#{name.downcase.gsub(/ /, '-')}.md"
+  filename = "_posts/#{timestamp}-tip-#{tip_num}-#{name.slugify}.md"
   File.open(filename, 'w') {|f| f << template }
   puts "Wrote #{filename}"
 end
