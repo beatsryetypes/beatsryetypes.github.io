@@ -3,6 +3,7 @@ layout: tip
 title: "Tip #24: Listen to Grand Puba 'Reel to Reel'"
 date: 2016-02-04 10:15
 categories: tips
+tags: music
 image: http://d5e3yh7f757go.cloudfront.net/tips/tip-24-MI0000015918.jpg
 thumbnail: http://d5e3yh7f757go.cloudfront.net/tips/thumbs/tip-24-MI0000015918.jpg
 ---

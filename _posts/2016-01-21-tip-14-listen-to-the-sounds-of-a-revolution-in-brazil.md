@@ -3,6 +3,7 @@ layout: tip
 title: "Tip #14: Listen to the Sounds of a Revolution in Brazil"
 date: 2016-01-21 10:15
 categories: tips
+tags: music
 image: http://d5e3yh7f757go.cloudfront.net/tips/tip-14-tropicalia.JPG
 thumbnail: http://d5e3yh7f757go.cloudfront.net/tips/thumbs/tip-14-tropicalia.JPG
 ---

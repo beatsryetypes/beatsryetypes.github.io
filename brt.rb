@@ -179,6 +179,7 @@ layout: tip
 title: "Tip ##{tip_num}: #{name}"
 date: #{timestamp} 10:15
 categories: tips
+tags: 
 image: #{CLOUDFRONT_HOST}/#{s3_path}
 thumbnail: #{CLOUDFRONT_HOST}/#{s3_thumb_path}
 ---

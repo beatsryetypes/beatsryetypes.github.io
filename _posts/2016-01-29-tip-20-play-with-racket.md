@@ -3,6 +3,7 @@ layout: tip
 title: "Tip #20: Play with Racket"
 date: 2016-01-29 10:15
 categories: tips
+tags: computers
 image: http://d5e3yh7f757go.cloudfront.net/tips/tip-21-racket.png
 thumbnail: http://d5e3yh7f757go.cloudfront.net/tips/thumbs/tip-21-racket.png
 ---

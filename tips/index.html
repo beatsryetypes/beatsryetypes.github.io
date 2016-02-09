@@ -2,6 +2,11 @@
 layout: default
 ---
 <h1>Daily Tips</h1>
+<p class="description">
+  There are currently {{ site.categories["tips"].size }} tips: {{ site.tags["food"].size }} about food, {{ site.tags["computers"].size }} about computers, {{ site.tags["music"].size }} about music, and {{ site.tags["life"].size }} about life.
+  <br/>
+</p>
+
 {% for post in site.categories.tips %}
 {% include tiny_tip.html %}
 {% endfor %}

@@ -3,6 +3,7 @@ layout: tip
 title: "Tip #13: Use autojump"
 date: 2016-01-20 10:15
 categories: tips
+tags: computers
 image: http://d5e3yh7f757go.cloudfront.net/tips/tip-13-aj.png
 thumbnail: http://d5e3yh7f757go.cloudfront.net/tips/thumbs/tip-13-aj.png
 ---

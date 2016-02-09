@@ -3,6 +3,7 @@ layout: tip
 title: "Tip #25: Get a stew goin' - Make Thomas Keller's Beef Bourguignon"
 date: 2016-02-05 10:15
 categories: tips
+tags: food
 image: http://d5e3yh7f757go.cloudfront.net/tips/tip-25-beef-0.jpg
 thumbnail: http://d5e3yh7f757go.cloudfront.net/tips/thumbs/tip-25-beef-0.jpg
 ---

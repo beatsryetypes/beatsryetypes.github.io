@@ -3,6 +3,7 @@ layout: tip
 title: "Tip #8: Speak at a local meetup"
 date: 2016-01-13 10:15
 categories: tips
+tags: life
 image: http://d5e3yh7f757go.cloudfront.net/tips/tip-8-hvtech.jpg
 thumbnail: http://d5e3yh7f757go.cloudfront.net/tips/thumbs/tip-8-hvtech.jpg
 ---

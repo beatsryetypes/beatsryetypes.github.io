@@ -3,6 +3,7 @@ layout: tip
 title: "Tip #7: Listen to John Fahey's 'Guitar Volume 4'"
 date: 2016-01-12 10:15
 categories: tips
+tags: music
 image: http://d5e3yh7f757go.cloudfront.net/tips/tip-7-fahey.jpg
 thumbnail: http://d5e3yh7f757go.cloudfront.net/tips/thumbs/tip-7-fahey.jpg
 ---

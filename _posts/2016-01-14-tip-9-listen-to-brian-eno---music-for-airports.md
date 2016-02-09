@@ -3,6 +3,7 @@ layout: tip
 title: "Tip #9: Listen to Brian Eno - Music For Airports"
 date: 2016-01-14 10:15
 categories: tips
+tags: music
 image: http://d5e3yh7f757go.cloudfront.net/tips/tip-9-maxresdefault.jpg
 thumbnail: http://d5e3yh7f757go.cloudfront.net/tips/thumbs/tip-9-maxresdefault.jpg
 ---

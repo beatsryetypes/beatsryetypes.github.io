@@ -3,6 +3,7 @@ layout: tip
 title: "Tip #22: Eggplant is fucking delicious"
 date: 2016-02-02 10:15
 categories: tips
+tags: food
 image: http://d5e3yh7f757go.cloudfront.net/tips/tip-22-eggplant.jpg
 thumbnail: http://d5e3yh7f757go.cloudfront.net/tips/thumbs/tip-22-eggplant.jpg
 ---

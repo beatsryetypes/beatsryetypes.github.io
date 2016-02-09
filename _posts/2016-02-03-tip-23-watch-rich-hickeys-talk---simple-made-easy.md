@@ -3,6 +3,7 @@ layout: tip
 title: "Tip #23: Watch Rich Hickey's Talk - Simple Made Easy"
 date: 2016-02-03 10:15
 categories: tips
+tags: computers
 image: http://d5e3yh7f757go.cloudfront.net/tips/tip-23-simple.jpg
 thumbnail: http://d5e3yh7f757go.cloudfront.net/tips/thumbs/tip-23-simple.jpg
 ---

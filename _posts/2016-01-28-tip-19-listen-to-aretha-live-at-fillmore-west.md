@@ -3,6 +3,7 @@ layout: tip
 title: "Tip #19: Listen to Aretha Live at Fillmore West"
 date: 2016-01-28 10:15
 categories: tips
+tags: music
 image: http://d5e3yh7f757go.cloudfront.net/tips/tip-19-960.jpg
 thumbnail: http://d5e3yh7f757go.cloudfront.net/tips/thumbs/tip-19-960.jpg
 ---

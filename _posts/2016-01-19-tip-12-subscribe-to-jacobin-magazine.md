@@ -3,6 +3,7 @@ layout: tip
 title: "Tip #12: Subscribe to Jacobin Magazine"
 date: 2016-01-19 10:15
 categories: tips
+tags: life
 image: http://d5e3yh7f757go.cloudfront.net/tips/tip-12-jacobin.png
 thumbnail: http://d5e3yh7f757go.cloudfront.net/tips/thumbs/tip-12-jacobin.png
 ---

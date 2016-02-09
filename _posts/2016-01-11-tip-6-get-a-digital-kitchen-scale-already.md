@@ -3,6 +3,7 @@ layout: tip
 title: "Tip #6: Get a digital kitchen scale already"
 date: 2016-01-11 10:15
 categories: tips
+tags: food
 image: http://d5e3yh7f757go.cloudfront.net/tips/tip-6-SCMKD8000.jpg
 thumbnail: http://d5e3yh7f757go.cloudfront.net/tips/thumbs/tip-6-SCMKD8000.jpg
 ---

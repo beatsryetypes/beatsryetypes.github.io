@@ -3,6 +3,7 @@ layout: tip
 title: "Tip #26: Make iced coffee this way"
 date: 2016-02-08 10:15
 categories: tips
+tags: food
 image: http://d5e3yh7f757go.cloudfront.net/tips/tip-26-iced.png
 thumbnail: http://d5e3yh7f757go.cloudfront.net/tips/thumbs/tip-26-iced.png
 ---

@@ -3,6 +3,7 @@ layout: tip
 title: "Tip #4: Learn how to strace"
 date: 2016-01-07 10:15
 categories: tips
+tags: computers
 image: http://d5e3yh7f757go.cloudfront.net/tips/tip-4-strace.jpg
 thumbnail: http://d5e3yh7f757go.cloudfront.net/tips/thumbs/tip-4-strace.jpg
 ---

@@ -3,6 +3,7 @@ layout: tip
 title: "Tip #16: There is such a thing as great dried pasta"
 date: 2016-01-25 10:15
 categories: tips
+tags: food
 image: http://d5e3yh7f757go.cloudfront.net/tips/tip-16-pasta-0.jpg
 thumbnail: http://d5e3yh7f757go.cloudfront.net/tips/thumbs/tip-16-pasta-0.jpg
 ---
