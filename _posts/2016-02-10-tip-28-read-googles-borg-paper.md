@@ -1,6 +1,6 @@
 ---
 layout: tip
-title: "Tip #28: Read Googles Borg Paper"
+title: "Tip #28: Read Google's Borg Paper"
 date: 2016-02-10 10:15
 categories: tips
 tags: computers
