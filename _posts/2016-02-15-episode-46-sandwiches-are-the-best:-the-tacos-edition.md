@@ -15,8 +15,8 @@ ratings:
 guest: true
 link: http://d5e3yh7f757go.cloudfront.net/eps/brt-046-160.mp3
 summary: |
-	We revisit one of our favorite subjects sandwiches, but sort-of. Are tacos sandwiches? Does it matter? They are delicious and we share some of our recent exploits and inspirations and complain about the dearth of good sandwiches in our respective areas.
-soundcloud: 245081624
+  We revisit one of our favorite subjects sandwiches, but sort-of. Are tacos sandwiches? Does it matter? They are delicious and we share some of our recent exploits and inspirations and complain about the dearth of good sandwiches in our respective areas.
+soundcloud: 247064120
 ---
 We revisit one of our favorite subjects sandwiches, but sort-of. Are tacos sandwiches? Does it matter? They are delicious and we share some of our recent exploits and inspirations and complain about the dearth of good sandwiches in our respective areas.
 
