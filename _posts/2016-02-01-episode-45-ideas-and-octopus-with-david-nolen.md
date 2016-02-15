@@ -5,8 +5,6 @@ date: 2016-02-01 08:15
 categories: episodes
 length: 50479931
 duration: '42:00'
-tag_list: |
-  "david nolen" swannodette korea travel clojurescript cognitect clojure
 ratings:
 - giggle: 6
 - music: 5
@@ -17,6 +15,14 @@ link: http://d5e3yh7f757go.cloudfront.net/eps/brt-045-160.mp3
 summary: |
   We finally tracked down one of our old friends and collaborators David Nolen for a chat. David is one of the few people we can talk fluently about all 3 of our primary topics with, so we caught up about David's recent trip to Korea, ClojureScript, and experimental music and film.
 soundcloud: 245081624
+tags:
+- david nolen
+- swannodette
+- korea
+- travel
+- clojurescript
+- cognitect
+- clojure
 ---
 We finally tracked down one of our old friends and collaborators David Nolen for a chat. David is one of the few people we can talk fluently about all 3 of our primary topics with, so we caught up about David's recent trip to Korea, ClojureScript, and experimental music and film.
 

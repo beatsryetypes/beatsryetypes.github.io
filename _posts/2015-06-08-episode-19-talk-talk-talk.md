@@ -5,8 +5,6 @@ date: 2015-06-08 08:45
 categories: episodes
 length: 29857792
 duration: '24:49'
-tag_list: |
-  computology Idris compilers Ruby "fear of cats" speaking conferences community
 ratings:
 - giggle: 7
 - music: 1
@@ -16,6 +14,15 @@ link: http://d5e3yh7f757go.cloudfront.net/eps/brt-019-160.mp3
 summary: |
   As we prepare for some upcoming speaking engagements, we discuss our different philosophies around giving talks at conferences and also give some tips to aspiring speakers in the computology community.
 soundcloud: 226215146
+tags:
+- computology
+- Idris
+- compilers
+- Ruby
+- fear of cats
+- speaking
+- conferences
+- community
 ---
 As we prepare for some upcoming speaking engagements, we discuss our different philosophies around giving talks at conferences and also give some tips to aspiring speakers in the computology community.
 

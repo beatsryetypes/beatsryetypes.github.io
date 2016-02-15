@@ -5,8 +5,6 @@ date: 2015-07-06 08:45
 categories: episodes
 length: 31418368
 duration: '26:07'
-tag_list: |
-  "Open Source" capitalism exploitation freedom America software "Codes of Conduct" community
 ratings:
 - giggle: 4
 - music: 8
@@ -16,6 +14,15 @@ link: http://d5e3yh7f757go.cloudfront.net/eps/brt-023-160.mp3
 summary: |
   As we celebrate the FREEDOM of AMERICA, we discuss the ideas how our culture values free things including Art, Music, and Software. We know that we need codes of conduct, but what does that mean for our communities? What are we willing to sell and what has no right to be sold?
 soundcloud: 226215451
+tags:
+- Open Source
+- capitalism
+- exploitation
+- freedom
+- America
+- software
+- Codes of Conduct
+- community
 ---
 As we celebrate the FREEDOM of AMERICA, we discuss the ideas how our culture values free things including Art, Music, and Software. We know that we need codes of conduct, but what does that mean for our communities? What are we willing to sell and what has no right to be sold?
 

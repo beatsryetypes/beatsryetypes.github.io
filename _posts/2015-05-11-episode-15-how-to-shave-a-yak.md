@@ -5,8 +5,6 @@ date: 2015-05-11 08:45
 categories: episodes
 length: 33888256
 duration: '28:11'
-tag_list: |
-  "Yak Shaving" MBTI computology
 ratings:
 - giggle: 4
 - music: 1
@@ -17,6 +15,10 @@ summary: "Alternate titles: What is a Yak Shave? How do you know you're Yak Shav
   and (most importantly) You're Going to Shave Some Yaks. We talk about the age old
   tradition of going on the endless quest that in and of itself has many quests.  \n"
 soundcloud: 226214664
+tags:
+- Yak Shaving
+- MBTI
+- computology
 ---
 Alternate titles: What is a Yak Shave? How do you know you're Yak Shaving? and (most importantly) You're Going to Shave Some Yaks. We talk about the age old tradition of going on the endless quest that in and of itself has many quests.
 

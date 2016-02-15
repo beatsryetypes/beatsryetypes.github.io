@@ -5,8 +5,6 @@ date: 2015-04-06 09:00
 categories: episodes
 length: 34859008
 duration: '28:59'
-tag_list: |
-  passover matzoh "Gefilte fish" "Katz's" "Wise Sons" kishka
 ratings:
 - giggle: 8
 - music: 1
@@ -16,6 +14,12 @@ link: http://d5e3yh7f757go.cloudfront.net/eps/brt-010-160.mp3
 summary: |
   Passover is a time of year where we get together with our families, eat a ton of stale crackers, and generally stuff ourselves to the utter brink. We relive some of our fondest passover memories and wax poetic about the history of future of Jewish Food and the Deli.
 soundcloud: 226214195
+tags:
+- passover
+- matzoh
+- Gefilte fish
+- Katz's" "Wise Sons
+- kishka
 ---
 Passover is a time of year where we get together with our families, eat a ton of stale crackers, and generally stuff ourselves to the utter brink. We relive some of our fondest passover memories and wax poetic about the history of future of Jewish Food and the Deli.
 

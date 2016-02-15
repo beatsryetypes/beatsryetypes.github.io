@@ -5,8 +5,6 @@ date: 2015-06-15 08:45
 categories: episodes
 length: 38572032
 duration: '32:05'
-tag_list: |
-  "co-located" "Grant Achatz" "Michael Ruhlman" Jacobin "Dan Barber" "Ideas In Food" dogma
 ratings:
 - giggle: 8
 - music: 1
@@ -16,6 +14,13 @@ link: http://d5e3yh7f757go.cloudfront.net/eps/brt-020-160.mp3
 summary: |
   A very special episode: We sat down IN PERSON for the first time as part of the podcast and talked about a variety of things on our minds. AQ accidentally did not hit record on the first try, but we ended up taking a slightly different track anyway. We talk about overturning dogmas and preconceptions about the food we like and cook, and generally the things we believe to be true.
 soundcloud: 226215239
+tags:
+- co-located" "Grant Achatz
+- Michael Ruhlman
+- Jacobin
+- Dan Barber
+- Ideas In Food
+- dogma
 ---
 A very special episode: We sat down IN PERSON for the first time as part of the podcast and talked about a variety of things on our minds. AQ accidentally did not hit record on the first try, but we ended up taking a slightly different track anyway. We talk about overturning dogmas and preconceptions about the food we like and cook, and generally the things we believe to be true.
 

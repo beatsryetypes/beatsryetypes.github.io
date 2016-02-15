@@ -5,8 +5,6 @@ date: 2016-02-15 08:15
 categories: episodes
 length: 29467432
 duration: '24:31'
-tag_list: |
-  sandwiches tacos "alex stupak" "tacos book" cookbooks
 ratings:
 - giggle: 8
 - music: 2
@@ -17,6 +15,12 @@ link: http://d5e3yh7f757go.cloudfront.net/eps/brt-046-160.mp3
 summary: |
   We revisit one of our favorite subjects sandwiches, but sort-of. Are tacos sandwiches? Does it matter? They are delicious and we share some of our recent exploits and inspirations and complain about the dearth of good sandwiches in our respective areas.
 soundcloud: 247064120
+tags:
+- sandwiches
+- tacos
+- alex stupak
+- tacos book
+- cookbooks
 ---
 We revisit one of our favorite subjects sandwiches, but sort-of. Are tacos sandwiches? Does it matter? They are delicious and we share some of our recent exploits and inspirations and complain about the dearth of good sandwiches in our respective areas.
 

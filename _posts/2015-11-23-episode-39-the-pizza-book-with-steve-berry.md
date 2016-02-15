@@ -5,8 +5,6 @@ date: 2015-11-23 08:15
 categories: episodes
 length: 55111975
 duration: '45:53'
-tag_list: |
-  pizza "steve berry" "the pizza book" design thoughtmerchants
 ratings:
 - giggle: 8
 - music: 2
@@ -17,6 +15,12 @@ link: http://d5e3yh7f757go.cloudfront.net/eps/brt-039-160.mp3
 summary: |
   In case you hadn't heard, We launched a Kickstarter Campaign last week to raise money to get the first edition of "The Pizza Book" printed and in your hands. In this episode we talk to the real talent behind the book, Steve Berry, who is helping us design, formulate, and generally make the Pizza Book something awesome. We talk about his design origins, the rules of subjectivity, and of course, the book.
 soundcloud: 234359816
+tags:
+- pizza
+- steve berry
+- the pizza book
+- design
+- thoughtmerchants
 ---
 In case you hadn't heard, [We launched a Kickstarter Campaign last week](http://beatsryetypes.com/pizza) to raise money to get the first edition of "The Pizza Book" printed and in your hands. In this episode we talk to the real talent behind the book, Steve Berry, who is helping us design, formulate, and generally make the Pizza Book something awesome. We talk about his design origins, the rules of subjectivity, and of course, the book.
 <!-- more -->

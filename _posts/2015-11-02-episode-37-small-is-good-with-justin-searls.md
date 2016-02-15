@@ -5,8 +5,6 @@ date: 2015-11-02 08:15
 categories: episodes
 length: 51676325
 duration: '43:02'
-tag_list: |
-  "justin searls" jsearls ruby nodejs javascript testdouble ohio
 ratings:
 - giggle: 5
 - music: 2
@@ -17,6 +15,14 @@ link: http://d5e3yh7f757go.cloudfront.net/eps/brt-037-160.mp3
 summary: |
   Why is smaller better when it comes to software and community? We talk to a kindred grumpy old man, Justin Searls about some of the finer points of building communities, open source maintership, and the good old days of when you could understand your damn video game platform.
 soundcloud: 231153679
+tags:
+- justin searls
+- jsearls
+- ruby
+- nodejs
+- javascript
+- testdouble
+- ohio
 ---
 Why is smaller better when it comes to software and community? We talk to a kindred grumpy old man, Justin Searls about some of the finer points of building communities, open source maintership, and the good old days of when you could understand your damn video game platform.
 <!-- more -->

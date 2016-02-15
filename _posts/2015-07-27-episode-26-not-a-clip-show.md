@@ -5,8 +5,6 @@ date: 2015-07-27 08:15
 categories: episodes
 length: 47728640
 duration: '39:42'
-tag_list: |
-  "Pizza Book" origins "meta-show" solipsism perfection mastery craftsmanship
 ratings:
 - giggle: 7
 - music: 5
@@ -16,6 +14,9 @@ link: http://d5e3yh7f757go.cloudfront.net/eps/brt-026-160.mp3
 summary: |
   After 26 weeks (a full half year) of week after week podcastin' we look back at the common themes we've touched on and the awesome guests we've been able to talk to. We also talk about the origins of Beats, Rye & Types and the upcoming Pizza Book.
 soundcloud: 226215745
+tags:
+- Pizza Book
+- origins
 ---
 After 26 weeks (a full half year) of week after week podcastin' we look back at the common themes we've touched on and the awesome guests we've been able to talk to. We also talk about the origins of Beats, Rye & Types and the upcoming Pizza Book.
 

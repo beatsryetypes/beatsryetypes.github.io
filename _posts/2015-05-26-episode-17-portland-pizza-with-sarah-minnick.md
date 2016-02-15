@@ -6,8 +6,6 @@ categories: episodes
 length: 44091392
 duration: '36:41'
 guest: true
-tag_list: |
-  pizza "Sarah Minnick" eggplant baking Portland "Lovely's Fifty Fifty" "Di Fara" Tartine
 ratings:
 - giggle: 8
 - music: 3
@@ -17,6 +15,15 @@ link: http://d5e3yh7f757go.cloudfront.net/eps/brt-017-160.mp3
 summary: |
   What makes a beautiful pizza beautiful? In our first of many conversations with chefs, we talk to Sarah Minnick, owner and chef at Lovely's Fifty Fifty in Portland, OR. Sarah makes some of the most stunning pizzas we've ever seen and we got the chance to chat and to know more about her, her craft, and her obsessions.
 soundcloud: 226214900
+tags:
+- pizza
+- Sarah Minnick
+- eggplant
+- baking
+- Portland
+- Lovely's Fifty Fifty
+- Di Fara
+- Tartine
 ---
 What makes a beautiful pizza beautiful? In our first of many conversations with chefs, we talk to Sarah Minnick, owner and chef at Lovely's Fifty Fifty in Portland, OR. Sarah makes some of the most stunning pizzas we've ever seen and we got the chance to chat and to know more about her, her craft, and her obsessions.
 

@@ -6,8 +6,6 @@ categories: episodes
 length: 42080256
 duration: '35:00'
 guest: true
-tag_list: |
-  chickens "Mystical Goat Army" "Carim Meier" clojure "John McCarthy" speaking robots
 ratings:
 - giggle: 10
 - music: 3
@@ -17,6 +15,14 @@ link: http://d5e3yh7f757go.cloudfront.net/eps/brt-025-160.mp3
 summary: |
   "Hmmmmm...could control with REPL..." Robot music dance parties, raising chickens, artificial intelligence, and chemical computing are just some of Carin Meier's interests. She's cut from the same obsessive cloth as we are, and we have a great time on this episode exploring learning, connecting with others on the internet, and more. Having guests on the show always brings us in interesting directions - join us!
 soundcloud: 226215637
+tags:
+- chickens
+- Mystical Goat Army
+- Carim Meier
+- clojure
+- John McCarthy
+- speaking
+- robots
 ---
 "Hmmmmm...could control with REPL..." Robot music dance parties, raising chickens, artificial intelligence, and chemical computing are just some of Carin Meier's interests. She's cut from the same obsessive cloth as we are, and we have a great time on this episode exploring learning, connecting with others on the internet, and more. Having guests on the show always brings us in interesting directions - join us!
 

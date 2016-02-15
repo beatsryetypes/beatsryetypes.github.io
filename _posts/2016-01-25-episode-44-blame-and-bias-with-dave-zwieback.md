@@ -5,8 +5,6 @@ date: 2016-01-25 08:15
 categories: episodes
 length: 45104105
 duration: '37:30'
-tag_list: |
-  "mindweather" "dave zwieback" "beyond blame" postmortems devops teams bias
 ratings:
 - giggle: 2
 - music: 4
@@ -17,6 +15,13 @@ link: http://d5e3yh7f757go.cloudfront.net/eps/brt-044-160.mp3
 summary: |
   The same systems that cause failure are the ones that create success - so why do we blame them? We talked to Dave Zweiback, about his book "Beyond Blame" and what makes positive and healthy teams.
 soundcloud: 243607561
+tags:
+- mindweather" "dave zwieback
+- beyond blame
+- postmortems
+- devops
+- teams
+- bias
 ---
 The same systems that cause failure are the ones that create success - so why do we blame them? We talked to Dave Zweiback, about his book "Beyond Blame" and what makes positive and healthy teams.
 

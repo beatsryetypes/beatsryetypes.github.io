@@ -5,8 +5,6 @@ date: 2015-03-02 09:00
 categories: episodes
 length: 34848768
 duration: '28:59'
-tag_list: |
-  "Sarah Minnick" "Sol Lewitt" "Reid Draper" "Barry Hoggard" carrots soup perfection
 ratings:
 - giggle: 7
 - music: 1
@@ -16,6 +14,14 @@ link: http://d5e3yh7f757go.cloudfront.net/eps/brt-005-160.mp3
 summary: |
   What is perfection? How do you go about attaining it? Can you buy it on Amazon? Why do chefs and programmers alike get so obsessed about achieving something so clearly out of reach? Two clearly perfect people talk about the quest, peeling carrots, making soup, and banging your head on keyboards.
 soundcloud: 226213429
+tags:
+- Sarah Minnick
+- Sol Lewitt
+- Reid Draper
+- Barry Hoggard
+- carrots
+- soup
+- perfection
 ---
 What is perfection? How do you go about attaining it? Can you buy it on Amazon? Why do chefs and programmers alike get so obsessed about achieving something so clearly out of reach? Two clearly perfect people talk about the quest, peeling carrots, making soup, and banging your head on keyboards.
 

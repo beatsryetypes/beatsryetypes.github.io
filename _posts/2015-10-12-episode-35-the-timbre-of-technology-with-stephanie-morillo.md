@@ -5,8 +5,6 @@ date: 2015-10-12 08:15
 categories: episodes
 length: 41190521
 duration: '34:14'
-tag_list: |
-  radiomorillo "stephanie morillo" brazil bossanova nyc bronx
 ratings:
 - giggle: 7
 - music: 8
@@ -17,6 +15,13 @@ link: http://d5e3yh7f757go.cloudfront.net/eps/brt-035-160.mp3
 summary: |
   We had an awesome time talking with technologist and musician Stephanie Morillo about her love of music, getting into tech, and how we define ourselves by our passions. Come for the tunes, stay for the banh mi.
 soundcloud: 228048234
+tags:
+- radiomorillo
+- stephanie morillo
+- brazil
+- bossanova
+- nyc
+- bronx
 ---
 We had an awesome time talking with technologist and musician Stephanie Morillo about her love of music, getting into tech, and how we define ourselves by our passions. Come for the tunes, stay for the banh mi.
 

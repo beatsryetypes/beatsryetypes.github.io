@@ -5,8 +5,6 @@ date: 2015-12-21 08:15
 categories: episodes
 length: 26632228
 duration: '22:09'
-tag_list: "resolutions 2016 \"year in review\" \"getting things done\" \"gtd\" \"mbti\"
-  \"pizza\" \"pizza book\" \n"
 ratings:
 - giggle: 7
 - music: 3
@@ -17,6 +15,13 @@ link: http://d5e3yh7f757go.cloudfront.net/eps/brt-042-160.mp3
 summary: |
   After reflecting on 2015, we look forward to 2016 and what we want to accomplish and who we want to be. What are your resolutions for the new year? This is the last episode of 2015 and we're feeling very grateful for every one who supported us this year. You all are dope.
 soundcloud: 238420900
+tags:
+- resolutions
+- '2016'
+- year in review
+- getting things done
+- gtd" mbti"
+- pizza" "pizza book
 ---
 After reflecting on 2015, we look forward to 2016 and what we want to accomplish and who we want to be. What are your resolutions for the new year? This is the last episode of 2015 and we're feeling very grateful for every one who supported us this year. You all are dope.
 <!-- more -->

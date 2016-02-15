@@ -6,8 +6,6 @@ categories: episodes
 length: 42313728
 duration: '35:12'
 guest: true
-tag_list: |
-  pizza "Adam Kuban" slice "Paulie Gee" "bar pizza" "food blogging" "Margot's" baking passion
 ratings:
 - giggle: 10
 - music: 2
@@ -17,6 +15,13 @@ link: http://d5e3yh7f757go.cloudfront.net/eps/brt-024-160.mp3
 summary: |
   What's your personal pizza aesthetic? What does it take to turn a passion into a career? We get to sit down and talk to another one of our current Pizza Heroes, creator and chef of Margot's Pizza, Adam Kuban. Adam also was one of the first of the New York food bloggers and we get to talk to him about the early days of Slice, Bar Pies, and get to hear his best Paulie Gee accent.
 soundcloud: 226215543
+tags:
+- pizza
+- Adam Kuban
+- slice
+- Paulie Gee
+- bar pizza
+- food blogging
 ---
 What's your personal pizza aesthetic? What does it take to turn a passion into a career? We get to sit down and talk to another one of our current Pizza Heroes, creator and chef of Margot's Pizza, Adam Kuban. Adam also was one of the first of the New York food bloggers and we get to talk to him about the early days of Slice, Bar Pies, and get to hear his best Paulie Gee accent.
 

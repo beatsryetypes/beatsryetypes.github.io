@@ -98,7 +98,7 @@ def migrate_to_soundcloud(post_path)
     mp3_path: episode.mp3_path,
     title: post_data['title'],
     description: post_data['summary'],
-    tag_list: post_data['tag_list'],
+    tag_list: tags_to_tag_list(post_data['tags']),
     release_time: Time.parse(post_data['date']),
     release: ep_num
   )
@@ -247,4 +247,44 @@ end
 def url_from_post(category, post_path)
   post_uri = File.basename(post_path).split("-", 4).join("/").gsub(/md$/,'html')
   "http://beatsryetypes.com/#{category}/#{post_uri}"
+end
+
+def tag_list_to_tags(tag_list)
+  tags = []
+  open_tag = nil
+  tag_list.split.each do |t|
+    if open_tag 
+      if t =~ /\"$/
+        tags << open_tag + " " + t.sub("\"",'')
+        open_tag = nil
+      else
+        open_tag << " " + t
+      end
+    else
+      if t =~ /^\"/
+        open_tag = t.sub("\"", '')
+      else
+        tags << t
+      end
+    end
+  end
+  tags
+end
+
+def tags_to_tag_list(tags)
+  tags.collect {|t| t =~ /\s/ ? "\"#{t}\"" : t }.join(" ")
+end
+
+def migrate_tag_list_to_tags
+  Dir['_posts/*episode*.md'].each do |post_path|
+    _, frontmatter, post = File.read(post_path).split('---')
+    post_data = YAML.load(frontmatter)
+    post_data['tags'] = tag_list_to_tags(post_data['tag_list'])
+    post_data.delete('tag_list')
+    File.open(post_path, 'w') {|f|
+      f << YAML.dump(post_data)
+      f << "---"
+      f << post
+    }
+  end
 end

@@ -5,8 +5,6 @@ date: 2015-10-19 08:15
 categories: episodes
 length: 56835162
 duration: '47:20'
-tag_list: |
-  vc vegan veganism al3x "alex payne" twitter simple agriculture
 ratings:
 - giggle: 4
 - music: 3
@@ -17,6 +15,15 @@ link: http://d5e3yh7f757go.cloudfront.net/eps/brt-036-160.mp3
 summary: |
   We were very lucky to steal an hour from our very busy and very inspiring friend, Alex Payne to talk about many things that aren't scala programming or twitter. In an unexpected turn of events, we talked about the virtues of Veganism for an extended period of time and made some very cagey (pun intended) analogies to the world of startup culture. What's wrong with being young, ambitious, and funded by a machine made to break you?
 soundcloud: 229038881
+tags:
+- vc
+- vegan
+- veganism
+- al3x
+- alex payne
+- twitter
+- simple
+- agriculture
 ---
 We were very lucky to steal an hour from our very busy and very inspiring friend, Alex Payne to talk about many things that aren't scala programming or twitter. In an unexpected turn of events, we talked about the virtues of Veganism for an extended period of time and made some very cagey (pun intended) analogies to the world of startup culture. What's wrong with being young, ambitious, and funded by a machine made to break you?
 

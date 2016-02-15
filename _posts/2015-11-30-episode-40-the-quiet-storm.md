@@ -5,8 +5,6 @@ date: 2015-11-30 08:15
 categories: episodes
 length: 37828248
 duration: '31:29'
-tag_list: |
-  music rdio "quiet storm" thanksgiving turkey gravy bagels
 ratings:
 - giggle: 8
 - music: 8
@@ -17,6 +15,14 @@ link: http://d5e3yh7f757go.cloudfront.net/eps/brt-040-160.mp3
 summary: |
   We got together late night (or late for us) after a long Thanksgiving weekend to talk about music and our latest projects including gravy and bagels.
 soundcloud: 235516172
+tags:
+- music
+- rdio
+- quiet storm
+- thanksgiving
+- turkey
+- gravy
+- bagels
 ---
 We got together late night (or late for us) after a long Thanksgiving weekend to talk about music and our latest projects including gravy and bagels.
 <!-- more -->

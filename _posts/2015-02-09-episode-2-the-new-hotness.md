@@ -5,8 +5,6 @@ date: 2015-02-01 09:00
 categories: episodes
 length: 32927744
 duration: '27:23'
-tag_list: |
-  hotness computology cooking "theorem solvers" containers "DC food" "Sean Brock" Docker
 ratings:
 - giggle: 6
 - music: 1
@@ -16,6 +14,15 @@ link: http://d5e3yh7f757go.cloudfront.net/eps/brt-002-160.mp3
 summary: |
   What's the NEW HOTNESS in Computology and Cooking (at least according to MRB and AQ)?. We discuss Haskell theorem solvers, container technology, the DC Food Scene, and good eats in unexpected places.
 soundcloud: 226213197
+tags:
+- hotness
+- computology
+- cooking
+- theorem solvers
+- containers
+- DC food
+- Sean Brock
+- Docker
 ---
 What's the NEW HOTNESS in Computology and Cooking (at least according to MRB and AQ)?. We discuss Haskell theorem solvers, container technology, the DC Food Scene, and good eats in unexpected places.
 

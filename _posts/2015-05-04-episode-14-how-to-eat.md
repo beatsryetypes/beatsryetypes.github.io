@@ -5,8 +5,6 @@ date: 2015-05-04 08:45
 categories: episodes
 length: 34004992
 duration: '28:17'
-tag_list: |
-  eating Frankies "Congee Village" "Eleven Madison Park" "Pok Pok" "Andy Ricker" "Danny Bowien"
 ratings:
 - giggle: 8
 - music: 1
@@ -16,6 +14,14 @@ link: http://d5e3yh7f757go.cloudfront.net/eps/brt-014-160.mp3
 summary: |
   Believe it or not we get complimented a lot. Not on our amazing looks or witty personalities, but on our ability to order well at restaurants. This is an art and a skill, not dumb luck. We share some of our favorite memories of eating out, reflect of the surly nature of one of our favorite spots, and talk about the ups and downs of the bon vivant lifestyle.
 soundcloud: 226214592
+tags:
+- eating
+- Frankies
+- Congee Village
+- Eleven Madison Park
+- Pok Pok
+- Andy Ricker
+- Danny Bowien
 ---
 Believe it or not we get complimented a lot. Not on our amazing looks or witty personalities, but on our ability to order well at restaurants. This is an art and a skill, not dumb luck. We share some of our favorite memories of eating out, reflect of the surly nature of one of our favorite spots, and talk about the ups and downs of the bon vivant lifestyle.
 

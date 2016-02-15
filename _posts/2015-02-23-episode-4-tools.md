@@ -5,8 +5,6 @@ date: 2015-02-23 09:00
 categories: episodes
 length: 31225856
 duration: '25:58'
-tag_list: |
-  tools "kitchen equipment" "Michael Ruhlman" "Bruce Hardie" Go "Box Grater"
 ratings:
 - giggle: 7
 - music: 1
@@ -16,6 +14,13 @@ link: http://d5e3yh7f757go.cloudfront.net/eps/brt-004-160.mp3
 summary: |
   T.R.E.A.M. Tools Rule Everything Around Us, DOLLA DOLLA BILL Y'ALL. We discuss the kitchen tools we love most, the programming tools that inspire us, and the conversations and thoughts around tools that just drive us nuts.
 soundcloud: 226213339
+tags:
+- tools
+- kitchen equipment
+- Michael Ruhlman
+- Bruce Hardie
+- Go
+- Box Grater
 ---
 T.R.E.A.M. Tools Rule Everything Around Us, DOLLA DOLLA BILL Y'ALL. We discuss the kitchen tools we love most, the programming tools that inspire us, and the conversations and thoughts around tools that just drive us nuts.
 
