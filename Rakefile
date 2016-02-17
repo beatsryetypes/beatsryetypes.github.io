@@ -15,14 +15,17 @@ task :new_tip, [:name, :image_path] do |t, args|
   new_tip(args[:name], args[:image_path])
 end
 
+desc 'Create a new tip entry, but for todays date'
 task :new_tip_today, [:name, :image_path] do |t, args|
   new_tip(args[:name], args[:image_path], Time.now)
 end
 
+desc 'New News article'
 task :new_news, [:name] do |t, args|
   new_news(args[:name])
 end
 
+desc 'send a post to twitter via buffer'
 task :buff, [:post_path] do |t, args|
   buff(args['post_path'])
 end
