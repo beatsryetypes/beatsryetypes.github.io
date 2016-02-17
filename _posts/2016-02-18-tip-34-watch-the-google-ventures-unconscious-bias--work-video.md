@@ -1,9 +1,9 @@
 ---
 layout: tip
 title: "Tip #34: Watch the Google Ventures 'Unconscious Bias @ Work' video"
-date: 2016-02-17 10:15
+date: 2016-02-18 10:15
 categories: tips
-tags:
+tags: life
 image: http://d5e3yh7f757go.cloudfront.net/tips/tip-34-bias.png
 thumbnail: http://d5e3yh7f757go.cloudfront.net/tips/thumbs/tip-34-bias.png
 ---
