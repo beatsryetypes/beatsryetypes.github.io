@@ -4,7 +4,9 @@ title: "A Pizza Book Progress Report, Feb 2016"
 date: 2016-02-17 10:15
 categories: news
 ---
-It's been almost two months since the [Kickstarter] ended and _The Pizza Book_ was successfully funded. We've been pretty quiet since then  because we've been heads down working on finishing the book. I wanted to share some progress and give you an idea about what we've been up to.
+![https://dl.dropboxusercontent.com/u/129189/pizza/Pizza%20Book_6126.jpg](https://dl.dropboxusercontent.com/u/129189/pizza/Pizza%20Book_6126.jpg)
+
+It's been almost two months since the [Kickstarter](http://kickstarter.com/projects/980466739/the-pizza-book) ended and _The Pizza Book_ was successfully funded. We've been pretty quiet since then  because we've been heads down working on finishing the book. I wanted to share some progress and give you an idea about what we've been up to.
 
 This is a _self-published_ book which means that we're organizing everything ourselves. While we might work with a publisher in the future, we're DIY as a rule so this is a big fun learning process for us. 
 
@@ -62,7 +64,7 @@ We have a printer locked down and ready to go. We went over some samples and som
 
 Similarly to PR conversation, we're in a little bit of a deadlock with book stores and distributors until we have a rough copy to share. In the meantime, we've set up our own online store at [pizza.beatsryetypes.com](http://pizza.beatsryetypes.com) which will continue to operate for the foreseeable future. You and your friends can pre-order copies there right now.
 
----
+### Timeline
 
 This all brings us to the inevitable question of timeline. Right now we're still on track to get the e-book version in your e-hands by the end of Q1 (that gives us a little more than a month). This print will take a little bit longer to get all the printing and fulfillment done (though our printer is also doing fulfillment so that should be prompt). We're aiming for middle of Q2 (i.e. April or May) for the print book.
 
@@ -71,3 +73,11 @@ We love you all and thank you infinitely for you support and patience.
 ---
 
 _Photos by Tom Eberhardt-Smith_
+
+
+
+
+
+
+
+
