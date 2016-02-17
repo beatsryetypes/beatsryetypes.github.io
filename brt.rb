@@ -218,6 +218,10 @@ def upload_to_s3(local_path, s3_path)
 end
 
 def buff(post_path)
+  if post_path == nil
+    # get the latest post
+    post_path = Dir["_posts/*tip*.md"].sort.reverse.first
+  end
   token = ENV['BUFFER_ACCESS_TOKEN']
   profile = 0
 
