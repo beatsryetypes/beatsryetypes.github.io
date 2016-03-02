@@ -3,7 +3,7 @@ layout: tip
 title: "Tip #43: Play with Mary Rose Cook's Drum Machine"
 date: 2016-03-02 10:15
 categories: tips
-tags:
+tags: computers
 image: http://d5e3yh7f757go.cloudfront.net/tips/tip-43-maryrosecook.png
 thumbnail: http://d5e3yh7f757go.cloudfront.net/tips/thumbs/tip-43-maryrosecook.png
 ---
