@@ -1,6 +1,6 @@
 ---
 layout: tip
-title: "Tip #43: Read the story of Word Perfect"
+title: "Tip #46: Read the story of Word Perfect"
 date: 2016-03-07 10:15
 categories: tips
 tags: computers
