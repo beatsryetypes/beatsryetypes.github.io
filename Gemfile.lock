@@ -42,6 +42,7 @@ GEM
       mercenary (~> 0.3.3)
       rouge (~> 1.7)
       safe_yaml (~> 1.0)
+    jekyll-paginate (1.1.0)
     jekyll-redirect-from (0.9.1)
       jekyll (>= 2.0)
     jekyll-sass-converter (1.4.0)
@@ -90,6 +91,7 @@ DEPENDENCIES
   aws-sdk (~> 2)
   buffer
   jekyll
+  jekyll-paginate
   jekyll-redirect-from
   mp3info
   pry
