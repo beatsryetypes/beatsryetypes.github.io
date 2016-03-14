@@ -30,6 +30,11 @@ task :buff, [:post_path] do |t, args|
   buff(args['post_path'])
 end
 
+desc 'send latest post to twitter via buffer'
+task :buff_latest do |t|
+  buff(Dir["_posts/*tip*"].sort_by{|f| File.mtime(f) }.last)
+end
+
 task :migrate_all_to_soundcloud do
   Dir.glob('_posts/*.md') do |post|
     begin
