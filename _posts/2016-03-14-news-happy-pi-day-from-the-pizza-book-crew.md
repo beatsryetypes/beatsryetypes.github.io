@@ -1,7 +1,7 @@
 ---
 layout: news
 title: "Happy Pi Day from The Pizza Book Crew"
-date: 2016-03-13 10:15
+date: 2016-03-14 8:15
 categories: news
 ---
 Hey Pizza Book Friends!
@@ -51,4 +51,4 @@ Spoon the green sauce over the lettuce, top the lettuce with radish, and then dr
 
 ---
 
-*Don't forget, you can [Pre-order the Pizza Book now at http://pizza.beatsryetypes.com](http://pizza.beatsryetypes.com)
+#### Don't forget, you can [Pre-order the Pizza Book now at http://pizza.beatsryetypes.com](http://pizza.beatsryetypes.com)
