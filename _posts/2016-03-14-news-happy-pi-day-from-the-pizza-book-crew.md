@@ -1,7 +1,7 @@
 ---
 layout: news
 title: "Happy Pi Day from The Pizza Book Crew"
-date: 2016-03-14 7:15
+date: 2016-03-14 07:15
 categories: news
 ---
 Hey Pizza Book Friends!
