@@ -14,7 +14,7 @@ guest: true
 link: http://d5e3yh7f757go.cloudfront.net/eps/brt-047-160.mp3
 summary: |
   Idalin is someone we've been trying for a while now to get on the show and talk to. Her talk at StrangeLoop this past Fall has been on our minds and a topic of conversation since. Her work in community building and outreach through technology is inspiring but her strong voice and perspective is something we feel like _our_ community of technologists needs.
-soundcloud: 247064120
+soundcloud: 253782759
 tags:
 - activism
 - blm
