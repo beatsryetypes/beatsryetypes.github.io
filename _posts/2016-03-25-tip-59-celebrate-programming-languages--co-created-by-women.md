@@ -1,6 +1,6 @@
 ---
 layout: tip
-title: "Tip #58: Celebrate programming languages (co)created by women"
+title: "Tip #59: Celebrate programming languages (co)created by women"
 date: 2016-03-25 10:15
 categories: tips
 tags: computers
