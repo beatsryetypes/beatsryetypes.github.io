@@ -3,7 +3,7 @@ layout: tip
 title: "Tip #60: Make some preserved lemons"
 date: 2016-03-25 10:15
 categories: tips
-tags:
+tags: food
 image: http://d5e3yh7f757go.cloudfront.net/tips/tip-60-lemons.jpg
 thumbnail: http://d5e3yh7f757go.cloudfront.net/tips/thumbs/tip-60-lemons.jpg
 ---
