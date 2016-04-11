@@ -3,7 +3,7 @@ layout: tip
 title: "Tip #71: Watch 'The Mother of All Demos'"
 date: 2016-04-11 10:15
 categories: tips
-tags:
+tags: computers
 image: http://d5e3yh7f757go.cloudfront.net/tips/tip-71-moad.png
 thumbnail: http://d5e3yh7f757go.cloudfront.net/tips/thumbs/tip-71-moad.png
 ---
