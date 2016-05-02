@@ -3,7 +3,7 @@ layout: tip
 title: "Tip #86: Make this eggplant sandwich"
 date: 2016-05-02 10:15
 categories: tips
-tags:
+tags: food
 image: http://d5e3yh7f757go.cloudfront.net/tips/tip-86-eggplant.png
 thumbnail: http://d5e3yh7f757go.cloudfront.net/tips/thumbs/tip-86-eggplant.png
 ---
