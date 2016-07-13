@@ -14,11 +14,11 @@ The most basic pickle recipe:
 - 10-15 small kirby cucumbers
 - 1 cup white vinegar
 - 2 cups filtered water
-- 2 tbsp + 1 tsp Kosher Salt 
+- 2 tbsp + 1 tsp Kosher Salt
 - 2 tsp sugar
 - 1 tsp mustard seed
 - 1 tsp coriander seed
 - 1 large bunch of dill
 - 2 large cloves of garlic
 
-Wash the cucumbers and slice into spears. Place in a colander and toss with 1 tsp of salt and let sit for 30 minutes. In the meantime, combine the rest of the ingredients minus the dill and garlic in a small pot and bring to a boil. After it boils turn off immediately and let cool until you can stick your finger in it. Rinse the cucumbers and pack into tightly into canning jars (should be two quart jars) splitting the dill and garlic between the jars. Pour the brine over the cucumbers and seal the jars and then let sit on your counter over night or until cooled to room temperature. Stick the jars in the fridge and then wait at least 3 days before digging in. They're best at week 2 and then aren't that great after week 8, but they wont kill you as long as there is no visible mold (their shouldn't be).  
+Wash the cucumbers and slice into spears. Place in a colander and toss with 1 tsp of salt and let sit for 30 minutes. In the meantime, combine the rest of the ingredients minus the dill and garlic in a small pot and bring to a boil. After it boils turn off immediately and let cool until you can stick your finger in it. Rinse the cucumbers and pack into tightly into canning jars (should be two quart jars) splitting the dill and garlic between the jars. Pour the brine over the cucumbers and seal the jars and then let sit on your counter over night or until cooled to room temperature. Stick the jars in the fridge and then wait at least 3 days before digging in. They're best at week 2 and then aren't that great after week 8, but they wont kill you as long as there is no visible mold (there shouldn't be).  
