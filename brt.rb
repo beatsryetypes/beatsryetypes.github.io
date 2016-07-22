@@ -26,7 +26,7 @@ class Episode
     now = Time.now
     this_coming_monday = now + ((1 - now.wday) * 60 * 60 * 24)
     timestamp = this_coming_monday.strftime('%Y-%m-%d')
-    most_recent = Dir['_posts/*episode*.md'].sort.last
+    most_recent = Dir["_posts/*episode-#{ep_num - 1}*.md"].sort.last
     new_filename = "_posts/#{timestamp}-episode-#{ep_num}-#{title.downcase.gsub(/ /, '-')}.md"
     new_data = YAML.load_file(most_recent)
     stats = File.stat(mp3_path)
@@ -179,7 +179,7 @@ layout: tip
 title: "Tip ##{tip_num}: #{name}"
 date: #{timestamp} 10:15
 categories: tips
-tags: 
+tags:
 image: #{CLOUDFRONT_HOST}/#{s3_path}
 thumbnail: #{CLOUDFRONT_HOST}/#{s3_thumb_path}
 ---
@@ -257,7 +257,7 @@ def tag_list_to_tags(tag_list)
   tags = []
   open_tag = nil
   tag_list.split.each do |t|
-    if open_tag 
+    if open_tag
       if t =~ /\"$/
         tags << open_tag + " " + t.sub("\"",'')
         open_tag = nil
