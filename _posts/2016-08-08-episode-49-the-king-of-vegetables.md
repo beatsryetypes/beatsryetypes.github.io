@@ -12,16 +12,16 @@ ratings:
 - food: 9
 guest: false
 link: http://d5e3yh7f757go.cloudfront.net/eps/brt-049-160.mp3
-summary:
-	We can't stop thinking about a certain vegetable and we dedicate an entire episode to discussing its history, science, and some of our favorite recipes. Also a new segment where MRB presents some of his deepest cuts.
-soundcloud: 274801674
+summary: We can't stop thinking about a certain vegetable and we dedicate an entire
+  episode to discussing its history, science, and some of our favorite recipes. Also
+  a new segment where MRB presents some of his deepest cuts.
+soundcloud: 277659824
 tags:
 - cooking
 - eggplant
 - recipes
 - science
 - brain jams
-
 ---
 We can't stop thinking about a certain vegetable and we dedicate an entire episode to discussing its history, science, and some of our favorite recipes. Also a new segment where MRB presents some of his deepest cuts.
 
