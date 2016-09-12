@@ -1,7 +1,7 @@
 ---
 layout: tip
 title: "Tip #170: Slow roast all of those extra tomatoes"
-date: 2016-09-09 10:15
+date: 2016-09-08 10:15
 categories: tips
 tags: food
 image: http://d5e3yh7f757go.cloudfront.net/tips/tip-170-tomatoes.jpg

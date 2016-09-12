@@ -1,7 +1,7 @@
 ---
 layout: tip
 title: "Tip #172: Listen to Kim Gordon's new single"
-date: 2016-09-13 10:15
+date: 2016-09-12 10:15
 categories: tips
 tags: music
 image: http://d5e3yh7f757go.cloudfront.net/tips/tip-172-kim.jpg
