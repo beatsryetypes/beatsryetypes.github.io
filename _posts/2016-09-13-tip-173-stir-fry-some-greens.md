@@ -8,7 +8,7 @@ image: http://d5e3yh7f757go.cloudfront.net/tips/tip-173-greens.jpg
 thumbnail: http://d5e3yh7f757go.cloudfront.net/tips/thumbs/tip-173-greens.jpg
 ---
 
-Over the many many _many_ meals we've had at [Congee Village](http://congeevillagerestaurants.com/), we came to love the simply stir fried greens of many varieties that we'd order alongside our House Special Chicken. In the beginning these were just the palette cleansers, something that would be almost like an act of penance to the gods for all of the fried, battered, and braised meat we were about to consume. Over time, however, the greens became more of an equal party to the meal. They were often the first thing we would dig into. Now, being separated from the hallowed lazy-susans we once haunted, we have to make do at home. 
+Over the many many _many_ meals we've had at [Congee Village](http://congeevillagerestaurants.com/), we came to love the simply stir fried greens of many varieties that we'd order alongside our House Special Chicken. In the beginning these were just the palette cleansers, something that would be almost like an act of penance to the gods for all of the fried, battered, and braised meat we were about to consume. Over time, however, the greens became more of an equal part of the meal. They were often the first thing we would dig into. Being separated from the hallowed lazy-susans we once haunted, we have to make do at home. 
 
 Cooking greens this style is lucky very easy. The only real requirement is finding fresh Asian greens - not just any _choy_ will do. Look for greens with tender stems like pea shoots, pak choy, or small "shanghai" bok choy. If you can only find thicker-rooted greens, separate the leaves from the greens and throw the greens in first.
 
