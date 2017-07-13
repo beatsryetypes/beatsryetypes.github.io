@@ -4,13 +4,9 @@ layout: default
   {% assign post = site.categories.episodes.first %}
   <h3 class="divider">This Week's Episode</h3>
   {% include short_post.html %}
-  <h3 class="divider">The Latest Tip</h3>
-  {% assign post = site.categories.tips.first %}
-  {% include tiny_tip.html %}
   <br />
   <h3 class="divider">More Episodes</h3>
   {% for post in site.categories.episodes offset: 1 limit: 2 %}
   {% include tiny_post.html %}
   {% endfor %}
   <h3><a href="/archive.html">View The Full Archive</a></h3>
-
